@@ -1078,7 +1078,7 @@
 
 “There is no virtue if there is no immortality.”
 
-“- What is a Socialist?<br>- That's when all are equal and all have property in common, there are no marriages, and everyone has any religion and laws he likes best. You are not old enough to understand that yet.”
+“What is a Socialist?<br>- That's when all are equal and all have property in common, there are no marriages, and everyone has any religion and laws he likes best. You are not old enough to understand that yet.”
 
 “If it could come about that each of us were to describe his innermost secrets –secrets which one would hesitate to tell not only to people at large, but even to one’s closest friends, nay, to fear to admit even to one’s own self - the world would be filled with such a stench that each one of us would choke to death. That’s why, speaking in parenthesis, all our social conventions and niceties are so beneficial.”
 
@@ -1206,7 +1206,7 @@
 
 “Nature does not ask your permission, she has nothing to do with your wishes, and whether you like her laws or dislike them, you are bound to accept her as she is, and consequently all her conclusions.”
 
-“.. But do you understand, I cry to him, do you understand that along with happiness, in the exact same way, in perfectly equal proportion, man also needs unhappiness ”
+“But do you understand, I cry to him, do you understand that along with happiness, in the exact same way, in perfectly equal proportion, man also needs unhappiness ”
 
 “In the first place I spent most of my time at home, reading. I tried to stifle all that was continually seething within me by means of external impressions. And the only external means I had was reading. Reading, of course, was a great help--exciting me, giving me pleasure and pain. But at times it bored me fearfully. One longed for movement in spite of everything, and I plunged all at once into dark, underground, loathsome vice of the pettiest kind. My wretched passions were acute, smarting, from my continual, sickly irritability I had hysterical impulses, with tears and convulsions. I had no resource except reading, that is, there was nothing in my surroundings which I could respect and which attracted me. I was overwhelmed with depression, too; I had an hysterical craving for incongruity and for contrast, and so I took to vice. I have not said all this to justify myself .... But, no! I am lying. I did want to justify myself. I make that little observation for my own benefit, gentlemen. I don't want to lie. I vowed to myself I would not.”
 
@@ -1538,8 +1538,6 @@
 
 “... in St. Petersburg, the most abstract and intentional city on the entire globe. (Cities and be intentional or unintentional.”
 
-“Что, если бы не умирать! Что, если бы воротить жизнь, — какая бесконечность! И все это было бы мое! Я бы тогда каждую минуту в целый век обратил, ничего бы не потерял, каждую бы минуту счетом отсчитывал, уж ничего бы даром не истратил!”
-
 “Yes, man is broad, too broad, indeed. I'd have him narrower. The devil only knows what to make of it! What to the mind is shameful is beauty and nothing else to the heart. Is there beauty in Sodom? Believe me, that for the immense mass of mankind beauty is found in Sodom. Did you know that secret? The awful thing is that beauty is mysterious as well as terrible. God and the devil are fighting there and the battlefield is the heart of man.”
 
 “I wanted to find out then and quickly whether I was a louse like everybody else or a man. Whether I can step over barriers or not, whether I dare stoop to pick up or not, whether I am a trembling creature or whether I have the right...F”
@@ -1686,9 +1684,7 @@
 
 “If you ever fall in love with some one, God give you happiness with her! I won't wish anything for her, for she will be happy with you. I know, I am a woman myself, so you must believe me when I tell you so.”
 
-
 “You all, healthy people, can’t imagine the happiness which we<br>epileptics feel during the second before our fit... I don’t know if this<br>felicity lasts for seconds, hours or months, but believe me, I would not<br>exchange it for all the joys that life may bring.”
-
 
 “I tell Thee that man is tormented by no greater anxiety than to find someone quickly to whom he can hand over that gift of freedom with which the ill-fated creatures is born. But only one who can appease their conscience can take over their freedom […] Instead of taking men's freedom from them, Thou didst make it greater than ever! Didst Thou forget that man prefers peace, and even death, to freedom of choice in the knowledge of good and evil?”
 
@@ -1760,13 +1756,11 @@
 
 “They say that people standing on a height have an impulse to throw themselves down. I imagine that many suicides and murders have been committed simply because the revolver has been in the hand. It is like a precipice, with an incline of an angle of forty-five degrees, down which you cannot help sliding, and something impels you irresistibly to pull the trigger. But the knowledge that I had seen, that I knew it all, and was waiting for death at her hands without a word - might hold her back on the incline.”
 
-
 “Life everywhere is life, life is in ourselves and not in the external. There will be people near me, and to be a human being among human beings, and remain one forever, no matter what misfortunes befall, not to become depressed, and not to falter- this is what life is, herein lies its task. I have come to recognize this. This idea has entered into my flesh and blood. Yes, it's true! That head which created, lived b the hightes life of art, which acknowledged and had come to know the highest demands of the spirit, that head has been cut from my shoulders. Memory remains, and the images I have created and still not molded in flesh. They will leave their harsh mark on me, it is true! But my heart is left me, and the same flesh and blood which likewise can love and suffer and desire and remember, and this is, after all, life. on voit le soleil!”
 
 “Well, sir, it is precisely my notion that one sees and learns most of all by observing our younger generations.”
 
 “Have you noticed how dogs sniff at one another when they meet? It seems to be their nature.<br>- Yes; it's a funny habit.<br>- No, it's not funny; you are wrong there. There's nothing funny in nature, however funny it may seem to man. If dogs could reason and criticize us they'd be sure to find just as much that would be funny to them, if not far more, in the social relations of men, their masters -far more, I think. I am more convinced that there is far more foolishness among us.”
-
 
 “And in fact you're not like everyone else: you weren't ashamed just now to confess bad and even ridiculous things about yourself. Who would confess such things nowadays? No one, and people have even stopped feeling any need for self-judgment.”
 
@@ -2204,7 +2198,6 @@
 
 “Do you know, Alexey Fyodorovitch, how people do go out of their mind?”
 
-
 “And, beginning to grind his teeth again, Pyotr Petrovich admitted that he'd been a fool--but only to himself, of course.”
 
 “Very well, then there's an experiment, and the thing is proved; one cannot live and count each moment; say what you like, but one cannot.”
@@ -2228,7 +2221,6 @@
 “Oh, Nastenka! You know, we thank some people for merely living at the same time as we do. I thank you for the fact that I met you, that I will remember you for all my life!”
 
 “Tell me yourself directly, I challenge you – reply: imagine that you yourself are erecting the edifice of human fortune with the goal of, at the finale, making people happy, of at last giving them peace and quiet, but that in order to do it would be necessary and unavoidable to torture to death only one little creature, that same little child that beat its little fist, and on its unavenged tears to found that edifice, would you agree to be the architect on those conditions, tell me and tell me truly?”
-
 
 “No prize , however great can justify an ounce of self deception or a small departure of the ugly facts. ( Notes from Underground)”
 
@@ -2306,7 +2298,7 @@
 
 “Never trust a woman's tears, Alyosha. I am never for the woman in such cases. I am always on the side of the men.”
 
-“<i> in many strong people there seems to be a sort of natural need--to find someone or something to bow down to</i>”
+“in many strong people there seems to be a sort of natural need--to find someone or something to bow down to”
 
 “Two abysses, gentlemen of the jury, remember that Karamazov can contemplate two abysses, and both at the same time.”
 
@@ -2580,7 +2572,7 @@
 
 “Oh, we love to live among people and to inform these people at once of everything, even our most infernal and dangerous ideas; we like sharing with people, and, who knows why, we demand immediately, on the spot, that these people respond to us at once with the fullest sympathy, enter into all our cares and concerns, nod in agreement with us, and never cross our humor.”
 
-“But gentlemen, what sort of free choice will there be when it comes down to tables and arithmetic, when all that’s left is two times two makes four? Two times two makes four even without my will. Is that what you call free choice?"<br>— <br>Fyodor Dostoyevsky”
+“But gentlemen, what sort of free choice will there be when it comes down to tables and arithmetic, when all that’s left is two times two makes four? Two times two makes four even without my will. Is that what you call free choice?"
 
 “If anything protects society even in our time, and even reforms the criminal himself and transforms him into a different person, again it is Christ’s law alone, which manifests itself in the acknowledgement of one’s own conscience.”
 
@@ -2924,7 +2916,6 @@
 
 “There are strange friendships: two friends are almost ready to eat each other, they live like that all their lives, and yet they cannot part.”
 
-
 “No, I'd better sit on to the end,' I went on thinking; 'you would be pleased, my friends, if I went away. Nothing will induce me to go. I'll go on sitting here and drinking to the end, on purpose, as a sign that I don't think you of the slightest consequence.”
 
 “That there was, indeed, beauty and harmony in those abnormal moments, that they really contained the highest synthesis of life, he could not doubt, nor even admit the possibility of doubt. He felt that they were not analogous to the fantastic and unreal dreams due to intoxication by hashish, opium or wine. Of that he could judge, when the attack was over. These instants were characterized--to define it in a word--by an intense quickening of the sense of personality. Since, in the last conscious moment preceding the attack, he could say to himself, with full understanding of his words: "I would give my whole life for this one instant," then doubtless to him it really was worth a lifetime. For the rest, he thought the dialectical part of his argument of little worth; he saw only too clearly that the result of these ecstatic moments was stupefaction, mental darkness, idiocy. No argument was possible on that point. His conclusion, his estimate of the "moment," doubtless contained some error, yet the reality of the sensation troubled him. What's more unanswerable than a fact? And this fact had occurred. The prince had confessed unreservedly to himself that the feeling of intense beatitude in that crowded moment made the moment worth a lifetime.”
@@ -3043,9 +3034,7 @@
 
 “For we've reached a point where we regard real "living life" almost as labor, almost as service, and we all agree in ourselves that it's better from a book”
 
-
 “Don't forget the small things, above all, don't forget the small things—the smaller the trace, the more important it sometimes is.”
-
 
 “She fell on her knees before him as though in a sudden frenzy. “I’ve been waiting all my life for someone like you, I knew that someone like you would come and forgive me. I believed that, nasty as I am, someone would really love me, not only with a shameful love!”
 
@@ -3053,7 +3042,7 @@
 
 “Every prisoner knows perfectly that he is a convict and a reprobate, and knows the distance which separates him from his superiors; but neither the branding irons nor chains will make him forget that he is a man.”
 
-“He was one of that countless and multifarious legion of vulgar persons, sickly abortions and half-educated petty tyrants who like a flash attach themselves to the current ideas that are most fashionable in order, again like a flash,to vulgarize them, caricaturing the very cause they seek to serve, sometimes with great genuineness.”
+“He was one of that countless and multifarious legion of vulgar persons, sickly abortions and half-educated petty tyrants who like a flash attach themselves to the current ideas that are most fashionable in order, again like a flash, to vulgarize them, caricaturing the very cause they seek to serve, sometimes with great genuineness.”
 
 “though all my friends there are drunk, yet they are all honest, and though we do talk a lot of trash, and I do, too, yet we shall talk our way to the truth at last, for we are on the right path,”
 
@@ -3395,8 +3384,6 @@
 
 “But what can a decent man speak of with most pleasure?<br> Answer: Of himself. <br>Well, so I will talk about myself.”
 
-“الناس إنما خُلقوا ليُعذب بعضهم بعضاً !”
-
 “Raskolnikov saw in part why Sonia could not bring herself to read to him and the more he saw this, the more roughly and irritably he insisted on her doing so. He understood only too well how painful it was for her to betray and unveil all that was her own. He understood that these feelings really were her secret treasure, which she had kept perhaps for years, perhaps from childhood, while she lived with an unhappy father and distracted stepmother crazed by grief, in the midst of starving children and unseemly abuse and reproaches. But at the same time he knew now and knew for certain that, although it filled her with dread and suffering, yet she had a tormenting desire to read and to read to him that he might hear it, and to read now whatever might come of it! ... He read this in her eyes, he could see it in her intense emotion. She mastered herself, controlled the spasm in her throat and went on reading the еleventh chapter of St. John.”
 
 “I think my liver hurts.”
@@ -3445,15 +3432,9 @@
 
 “Love one another, Fathers,” said Father Zossima, as far as Alyosha could remember afterwards. “Love God's people. Because we have come here and shut ourselves within these walls, we are no holier than those that are outside, but on the contrary, from the very fact of coming here, each of us has confessed to himself that he is worse than others, than all men on earth.... And the longer the monk lives in his seclusion, the more keenly he must recognize that. Else he would have had no reason to come here. When he realizes that he is not only worse than others, but that he is responsible to all men for all and everything, for all human sins, national and individual, only then the aim of our seclusion is attained. For know, dear ones, that every one of us is undoubtedly responsible for all men and everything on earth, not merely through the general sinfulness of creation, but each one personally for all mankind and every individual man. This knowledge is the crown of life for the monk and for every man. For monks are not a special sort of men, but only what all men ought to be. Only through that knowledge, our heart grows soft with infinite, universal, inexhaustible love. Then every one of you will have the power to win over the whole world by love and to wash away the sins of the world with your tears.... Each of you keep watch over your heart and confess your sins to yourself unceasingly. Be not afraid of your sins, even when perceiving them, if only there be penitence, but make no conditions with God. Again I say, Be not proud. Be proud neither to the little nor to the great. Hate not those who reject you, who insult you, who abuse and slander you. Hate not the atheists, the teachers of evil, the materialists—and I mean not only the good ones—for there are many good ones among them, especially in our day—hate not even the wicked ones. Remember them in your prayers thus: Save, O Lord, all those who have none to pray for them, save too all those who will not pray. And add: it is not in pride that I make this prayer, O Lord, for I am lower than all men.... Love God's people, let not strangers draw away the [pg 178] flock, for if you slumber in your slothfulness and disdainful pride, or worse still, in covetousness, they will come from all sides and draw away your flock. Expound the Gospel to the people unceasingly ... be not extortionate.... Do not love gold and silver, do not hoard them.... Have faith. Cling to the banner and raise it on high.”
 
-“لا شيء أدعى إلى انزعاج المرء، مثلاً، من أن يكون غنيًا، وابن أسرة كريمة، وحسن الهيئة، وعلى جانب من ثقافة وغير غبي، بل وطيباً، ولكنه لا يملك أية موهبة، ولا ينفرد بأية سمة شخصية، حتى ولا بأية صفة مميزة، وأن لا يكون له أي تفكير خاص، أي يكون شخصيا «كسائر الأشخاص» تماماً:”
-
 “A sick man's dreams are often extraordinarily distinct and vivid and extremely life-like. A scene may be composed of the most unnatural and incongruous elements, but the setting and presentation are so plausible, the details so subtle, so unexpected, so artistically in harmony with the whole picture, that the dreamer could not invent them for himself in his waking state, even if he were an artist like Pushkin or Turgenev. Such morbid dreams always make a strong impression on the dreamer's already disturbed and excited nerves, and are remembered for a long time.”
 
-“Y ahora sé que quien es dueño de su voluntad y posee una inteligencia poderosa consigue fácilmente imponerse a los demás hombres; que el más osado es el que más razón tiene a los ojos ajenos; que quien desafía a los hombres y los desprecia conquista su respeto y llega a ser su legislador.”
-
 “Don’t they understand that in order to acquire an opinion what is needed first of all is labor, one’s own labor, one’s own initiative and experience! Nothing can ever be acquired gratis. If”
-
-“المرء يكون أقرب إلى الحقيقة حين يكون غبيا. إن الغباء يمضي نحو الهدف رأسا ، دون لف ودوران غامضين ، الغباء بساطة وإيجاز ، أما الذكاء فمكر ومخاتلة. إن الفكر الذكي فاجر فاسد ، أما الغباء فمستقيم شريف . . .”
 
 “The enjoyment of the sufferer finds expression in those moans; if he did not feel enjoyment in them he would not moan. It”
 
@@ -3464,12 +3445,6 @@
 “A man who lies to himself is often the first to take offense. It sometimes feels very good to take offense, doesn’t it? And surely he knows that no one has offended him, and that he himself has invented the offense and told lies just for the beauty of it, that he has exaggerated for the sake of effect, that he has picked on a word and made a mountain out of a pea—he knows all of that, and still he is the first to take offense, he likes feeling offended, it gives him great pleasure, and thus he reaches the point of real hostility”
 
 “I was, of course, myself the chief sufferer, because I was fully conscious of the disgusting meanness of my spiteful stupidity, and yet at the same time I could not restrain myself.”
-
-“Yarının hiçlik olması tehdidiyle mutlu olamam ve olmayacağım. Derin bir hakaret bu... Bu yüzden, beni acı çekmem ve yok olmam için, fikrimi sormadan ve küstahça var eden bu doğayı; su götürmez davacı, savcı ve davalı rolümle, kendimle birlikte mahkum ediyorum... Doğayı yok edemediğim için de, sadece kendimi yok ediyorum, hiçbir suçlunun bulunmadığı bir tiranlığa katlanmaktan bezmiş olarak...”
-
-“Sono proprio i piccoli particolari, di solito, a rovinare ogni cosa...”
-
-“Direi que acabe o mundo mas que eu sempre possa tomar o meu chá.”
 
 “Question: What is he? Answer: A sluggard; how very pleasant it would have been to hear that of oneself! It would mean that I was positively defined, it would mean that there was something to say about me. “Sluggard”—why, it is a calling and vocation, it is a career. Do not jest, it is so.”
 
@@ -3485,8 +3460,6 @@
 
 “Ah youth, youth! That's what happens when you go steeping your soul into Shakespeare”
 
-“ثم لماذا يجب عليّ أن أحب جاري، أو أن أحب الإنسانية المقبلة التي تتحدثون عنها، الإنسانية التي لن أراها يوما، والتي لن تعرفني يوما، والتي ستزول هي أيضا من غير أن تخلف لا أثرا ولا ذكرى؟”
-
 “I am a ridiculous man. They call me mad now. That would be a step up in rank, if I did not still remain as ridiculous to them as before. But now I’m no longer angry, now they are all dear to me, and even when they laugh at me - then, too, they are even somehow especially dear to me. I would laugh with them - not really at myself, but for love of them - if it weren’t so sad for me to look at them. Sad because they don’t know the truth, and I do know the truth. Ah, how hard it is to be the only one who knows the truth! But they won’t understand that. No, they won’t understand it.”
 
 “Don't be too anxious on my account. I have but one wish—to be in good health; the tedium is a passing matter, and cheerfulness depends in the last resort upon myself. Human beings have an incredible amount of endurance and will to live; I should never have expected to find so much in myself; now I know it from experience. Farewell! I hope that these few lines will give you much pleasure. Greet every one you see whom I have known—forget no one. I have not forgotten anybody. What can the children be thinking of me, and how do they explain to themselves my disappearance ? Farewell.”
@@ -3494,8 +3467,6 @@
 “And, indeed, I will ask on my own account here, an idle question: which is better--cheap happiness or exalted sufferings? Well, which is better? So I dreamed as I sat at home that evening,”
 
 “You see, Rodya, to my thinking, the great thing for getting on in the world is always to keep to the seasons; if you don't insist on having asparagus in January, you keep your money in your purse!”
-
-“...бедността не е порок,но нищетата,нищетата е порок.В бедността вие може да запазите вроденото си благородство,но в нищетата-никога и никой.За нищета ви гонят не с пръчка,а с метла ви измитат от човешкото общество,за да е по-оскърбително.И справедливо е,защото изпаднал в нищета,пръв съм готов сам себе си да оскърбя...”
 
 “The need for beauty and the [artistic] creation which embodies it is inseparable from man, and without it man would possibly not want to live in the world.”
 
@@ -3505,21 +3476,15 @@
 
 “Finally, if she were to accept this capital now, it was in no way as payment for her maidenly disgrace, for which she was not to blame, but simply as recompense for a corrupted destiny.”
 
-“Quite often, too, a writer who has for a time been believed to possess a great store of ordinarily profound ideas, and who is expected to exercise an extraordinary and serious influence in the progress of society, in the end betrays such shallowness and insipidity of his fundamental idea that no one is sorry when he succeeds in writing himself out too soon.”
-
 “General Ivolgin, like all drunkards, was very emotional, and, like all drunkards who have sunk very low, he was much upset by memories of the happy past.”
 
 “Advantage! What is advantage? And will you take it upon yourself to define with perfect accuracy in what the advantage of man consists? And what if it so happens that a man’s advantage, SOMETIMES, not only may, but even must, consist in his desiring in certain cases what is harmful to himself and not advantageous. And if so, if there can be such a case, the whole principle falls into dust. What do you think--are there such cases?”
 
 “If and when you fall in love, may you be happy with her. I don't need to wish her anything, for she'll be happy with you. May your sky always be clear, may your dear smile always be bright and happy, and may you be for ever blessed for that moment of bliss and happiness which you gave to another lonely and grateful heart. Isn't such a moment sufficient for the whole of one's life?”
 
-“أنا أعلم أنني حين أكون معك أحتاج إلى أن أتكلم ، أن أتكلم ، أن أتكلم ..... فأتكلم إنني حين أكون معك أفقد حب نفسي كله ، وليس يهمني هذا”
-
 “Before I knew you, my angel, I was solitary and as it were asleep, and scarcely alive. They said, the spiteful creatures, that even my appearance was unseemly, and so I began to be disgusted with myself; they said I was stupid and I really thought that I was stupid. When you came to me, you lighted up my dark life, so that my heart and my soul were filled with light and I gained peace at heart, and knew that I was no worse than others; that I have no polish or style about me, but I am still a man, in heart and mind a man.”
 
 “But I ask again, are there many like Thee? And could thou believe for one moment that men, too, could face such a temptation? Is the nature of men such, that they can reject miracles and at the great moments of their life, the moments of their deepest, most agonizing spiritual difficulties, cling only to the free verdict of their heart? ... and thou didst hope that man, following Thee, would cling to god and not ask for a miracle.”
-
-“كثير من المتكبرين جدا يحبون أن يؤمنوا بالله، وخاصة أولئك الذين يحتقرون الناس بعض الاحتقار. كثير من الناس الأقوياء يشعرون بنوع من حاجة طبيعية إلى أحد أو إلى شيء يعبدونه. إن الإنسان القوي يشق عليه كثيرا في بعض الأحيان أن يحتمل قوته<br>
 
 “He walked, looking about him angrily and distractedly. All his ideas now seemed to be circling round some single point, and he felt that there really was such a point, and that now, now, he was left facing that point—and for the first time, indeed, during the last two months.”
 
@@ -3539,8 +3504,6 @@
 
 “(…)man holds the remedy in his own hands, and lets everything go its own way, simply through cowardice- that is an axiom.”
 
-“إذا قام رجل يملأ نفسه الأمل فغرس شجرة، انفجر الناس من حوله ضاحكين: "أأنت واثق أنك ستراها تكبر وتثمر؟" ومن جهة أخرى فإن الذين يريدون الخير يتناقشون فيما سيحدث بعد ألف سنة. إن الفكرة التي تولد الثبات والاستقرار قد زالت<br><br> نحن جميعا كمن يقيم في فندق، متهيأ للرحيل عن روسيا في الغد. كل فرد يعيش مهتما بأن تكفي وسائل الحياة له وحده”
-
 “Without God, all things are permissible.”
 
 “... we took from him, ... proclaimed ourselves sole rulers of the earth, though we have not yet been able to complete our work.”
@@ -3548,8 +3511,6 @@
 “The temperament reflects everything like a mirror.”
 
 “Your poem was in praise of Jesus, not in blame of Him--as you meant it to be.”
-
-“Drag mi je poneki čovjek kojeg gdjekad, zamisli, i ne znaš zašto voliš, drag mi je poneki ljudski pothvat u koji si već odavno prestao vjerovati, a ipak ga iz navike od srca cijeniš.”
 
 “So a man will sometimes go through half an hour of mortal terror with a brigand, yet when the knife is at his throat at last, he feels no fear.”
 
@@ -3575,15 +3536,11 @@
 
 “For you must know, my dear ones, that each of us is undoubtedly guilty on behalf of all and for all on earth, not only because of the common guilt of the world, but personally, each one of us, for all people and for each person on this earth. This knowledge is the crown of the monk’s path, and of every man’s path on earth. For monks are not a different sort of men, but only such as all men on earth ought also to be. Only then will our hearts be moved to a love that is infinite, universal, and that knows no satiety. Then each of us will be able to gain the whole world by love and wash away the world’s sins with his tears …”
 
-“فضيلة عمل من الأعمال هي على قدر ما يشتمل عليه من أنانية”
-
 “Note for a moment do I take you for a truth that is real,' Ivan exclaimed in what even amounted to fury. 'You are a falsehood, you are my illness, you are a ghost. Only I do not know how to destroy you, and perceive that for a certain time I must suffer you. You are a hallucination I am having. You are the embodiment of myself, but only of one side of me ... of my thoughts and emotions, though only those that are most loathsome and stupid. In that regard you might even be of interest to me, if only I had time to throw away on you ...”
 
 “Still I know that I am a million times more worthless in my soul than she is, and that her lofty feelings--are as sincere as a heavenly angel's! That's the tragedy, that I know it for certain. What's wrong with declaiming a little? Am I not declaiming? But I am sincere, I really am sincere. As for Ivan, I can understand with what a curse he must look at nature now, and with his intelligence, too! To whom, to what has the preference been given? It has been given to a monster, who even here, already a fiancé and with all eyes looking at him, was not able to refrain from debaucheries--and that right in front of his fiancée, right in front of his fiancée! And a man like me is preferred, and he is rejected. Why? Because a girl wants to violate her life and destiny, out of gratitude! Absurd!”
 
 “It is perfectly true that in that sense we all of us, very often, conduct ourselves like mad folk, with the slight distinction that the "mentally ill” are a little crazier than we are, and so there it is necessary to draw a line. The harmonious individual, it needs to be said, hardly exists at all; out of many tens, even hundreds of thousands perhaps one or two at most are encountered, and even then in rather feeble versions…”
-
-“Midis nesh kishte kohë që ishte vendosur të vinte qiririn në dritare nëse i duhej patjetër të më shihte mua. Kështu që, nëse mua do më qëllonte të kaloja andej, atëherë nga drita do të kuptoja, se më priste dhe se ajo kishte nevojë për mua. Kohët e fundit ajo e vinte shpesh qiririn....”
 
 “And the peasants would beat them so cruelly, sometimes even about the nose and eyes, and he felt so sorry, so sorry for them that he almost cried, and his mother always used to take him away from the window.”
 
@@ -3614,8 +3571,6 @@
 “I am a dreamer. I know so little of real life that I just can’t help re-living such moments as these in my dreams, for such moments are something I have very rarely experienced.”
 
 “Moral obliquity and consequently lack of good sense; for it has long been accepted that lack of good sense is due to no other cause than moral obliquity.”
-
-“Kurnaz insanlar böylesi basit şeylerden tuzağa düşerler. İnsan ne kadar kurnazsa, basit şeylerden tuzağa düşürüleceğinden o kadar az kuşku duyar.”
 
 “That is all about the raising of Lazarus," she whispered severely and abruptly, and turning away she stood motionless, not daring to raise her eyes to him. She still trembled feverishly. The candle-end was flickering out in the battered candle-stick, dimly lighting up the poverty-stricken room the murderer and the harlot who had so strangely been reading together the eternal book. Five minutes or more passed.”
 
@@ -3649,8 +3604,6 @@
 
 “In short, one may say anything about the history of the world--anything that might enter the most disordered imagination. The only thing one can't say is that it's rational. The very word sticks in one's throat.”
 
-“Bir insanı sevmek için diğer insanın kendisini gizlemesi gerekir, yüzünü gösterdiğinde sevgi kaybolur.”
-
 “Love one another, Fathers,’ said Father Zossima, as far as Alyosha could remember afterwards. ‘Love God’s people. Because we have come here and shut ourselves within these walls, we are no holier than those that are outside, but on the contrary, from the very fact of coming here, each of us has confessed to himself that he is worse than others, than all men on earth.... <br><br>And the longer the monk lives in his seclusion, the more keenly he must recognise that. Else he would have had no reason to come here. When he realises that he is not only worse than others, but that he is responsible to all men for all and everything, for all human sins, national and individual, only then the aim of our seclusion is attained. For know, dear ones, that every one of us is undoubtedly responsible for all men — and everything<br>on earth, not merely through the general sinfulness of creation, but each one personally for all mankind and<br>every individual man. This knowledge is the crown of life for the monk and for every man. For monks are not a special sort of men, but only what all men ought to be. Only through that knowledge, our heart grows soft with infinite, universal, inexhaustible love. Then every one of you will have the power to win over the whole world by love and to wash away the sins of the world with your tears....<br><br>Each of you keep watch over your heart and confess your sins to yourself unceasingly. Be not afraid of your sins, even when perceiving them, if only there be penitence, but make no conditions with God. Again, I say, be not proud. Be proud neither to the little nor to the great. Hate not those who reject you, who insult you, who abuse and slander you. Hate not the atheists, the teachers of evil, the materialists — and I mean not only the good ones — for there are many good ones among them, especially in our day — hate not even the wicked ones. Remember them in your prayers thus: Save, O Lord, all those who have none to pray for them, save too all those who will not pray. And add: it is not in pride that I make this prayer, O Lord, for I am lower than all men....<br>
 
 “You can be quite sure that all who cease to understand their own people and lose their ties with them, immediately and to the same extent, also lose the faith of their fathers, and either become atheists or indifferent.”
@@ -3658,10 +3611,6 @@
 “So it is that we are unhappy we sense more acutely the unhappiness of others; rather than dispersing, the emotion becomes focused...”
 
 “I did not bow down to you, I bowed down to all the suffering of humanity,”
-
-“…очень часто только так кажется, что нет точек общих, а они очень есть… это от лености людской происходит, что люди так промеж собой на глаз сортируются и ничего не могут найти…”
-
-“Себя, свой покой и комфорт он любил и ценил более всего на свете, как и следовало в высшей степени порядочному человеку.”
 
 “And then it seemed to me that even in prison one might discover an immense life.”
 
@@ -3681,15 +3630,11 @@
 
 “some good, sacred memory, preserved from childhood, is perhaps the best education.”
 
-“Aldatmaca,göz boyama ve el çabukluklarından bulanık bir dünya yarattığınızı bile bile,kime neden gücendiğinizi kestiremeden,bütün bu aldatmacalar,karışıklıklar arasında içiniz sızlar da sızlar;bilmedikleriniz arttıkça sızılarınız o ölçüde çoğalır.”
-
 “As a general rule, people, even the wicked, are much more naïve and simple-hearted than we suppose. And we ourselves are, too.”
 
 “Though the sleepy, myopic, and rather bald-pated figure reflected in the mirror was precisely of such insignificant quality as to arrest decidedly no one's exclusive attention at first sight, its owner evidently remained perfectly pleased with all he saw in the mirror.”
 
 “He never did anything to me, it's true, but I once played a most shameless nasty trick on him, and the moment I did it, I immediately hated him for it.”
-
-“Если сердитесь, то не сердитесь… я ведь сам знаю, что меньше других жил и меньше всех понимаю в жизни”
 
 “His position at that moment was like the position of a man standing over a frightful precipice, when the earth breaks away under him, is rocking, shifting, sways for a last time, and falls, drawing him into the abyss, and meanwhile the unfortunate man has neither the strength nor the firmness of spirit to jump back, to take his eyes from the yawning chasm; the abyss draws him, and he finally leaps into it himself, himself hastening the moment of his own perdition.”
 
@@ -3711,8 +3656,6 @@
 
 “The brutes imagine they are doing me an honour in letting me sit down with them. They don't understand that it's an honour to them not to me!”
 
-“ليفيدك كثيراً أن تتردد إلى أناس مثلهم، فتتعلم أشياء كثيرة مازلت تجهلها في هذهـ الحياة..”
-
 “There are people who take exceeding pleasure in their own irritable touchiness, especially when it reaches the final limit (which always happens very quickly); at that moment they even find it more enjoyable to be offended than not to be offended. These irritable people always suffer dreadful torments of remorse afterwards, if they are intelligent, of course, and able to reflect that they got ten times more worked up than was necessary.”
 
 “Humanity will find in itself the power to live for virtue even without believing in immortality. It will find it in love for freedom, for equality, for fraternity.”
@@ -3724,10 +3667,6 @@
 “Listen, in dreams and especially in nightmares, from indigestion or anything, a man sees sometimes such artistic visions, such complex and real actuality, such events, even a whole world of events, woven into such a plot, with such unexpected details from the most exalted matters to the last button on a cuff, as I swear Leo Tolstoy has never invented.”
 
 “You have revealed me to myself. You have seen through me and explained me to myself.”
-
-“أنت تحكي بشكل رائع، ولكن ألا يمكنك أن تحكي بشكل أقل روعة ؟ لأنك تتكلم كأنك تقرأ من كتاب.”
-
-“Es una mujer que anhela sufrir por alguien, y si se la privase de este sufrimiento, sería capaz, tal vez, de arrojarse por una ventana.”
 
 “Never in my life did I lend the unfortunate Dmitri Fyodorovich Karamazov (for he is unfortunate now, in any case) the sum of three thousand roubles today, or any other money, never, never! I swear to it by all that is holy in our world." Khokhlakov”
 
@@ -3751,21 +3690,9 @@
 
 “I think everyone should love life above everything in the world."<br>"Love life more than the meaning of it?"<br>"Certainly, love it, regardless of logic as you say, it must be regardless of logic, and it's only then one will understand the meaning of it.”
 
-“Отцы и учители, мыслю: "что есть ад?" Рассуждаю <br>так: "Страдание о том, что нельзя уже более любить”
-
-“Великодушното сърце може да заобича от състрадание”
-
 “Meanwhile, genuine equality says: "What do I care if you are more talented than I, more clever, more handsome? I'm glad for it, rather, because I love you. But though I may be less important to you, I respect myself as a person; and you know this and respect me yourself, and I am happy with your respect. If you, through your abilities, can bring me and everyone else a hundredfold more benefit than I can bring you, then I bless you for it; I marvel at you and thank you, and in no way do I hold my awe for you as something shameful; on the contrary, I am happy that I am grateful to you, and if I work for you and for all in so far as my feeble abilities allow, then it is certainly not to try to balance my account with you, but because I love you all.”
 
-“Kto sumienie posiada, niech cierpi, skoro zdał sobie sprawę z pomyłki. Będzie mu to karą – obok katorgi.”
-
-“Bol i patnja su uvijek neizbježne za veliku inteligenciju i duboko srca. Stvarno veliki ljudi moraju, mislim, imaju veliki tugu na zemlji.”
-
-“Što god da je vrlina čistija, utoliko više u njoj ima egoizma”
-
 “then one should not stepon the first rung at all”
-
-“Io sono un sognatore; ho vissuto così poco la vita reale che attimi come questi non posso non ripeterli nei sogni".<br><br>Da "Le notti bianche”
 
 “I got to the point of feeling a sort of secret abnormal, despicable enjoyment in returning home to my corner on some disgusting Petersburg night, acutely conscious that that day I had committed a loathsome action again, that what was done could never be undone, and secretly, inwardly gnawing, gnawing at myself for it, tearing and consuming myself till at last the bitterness turned into a sort of shameful accursed sweetness, and at last—into positive real enjoyment! Yes, into enjoyment, into enjoyment! I insist upon that. I have spoken of this because I keep wanting to know for a fact whether other people feel such enjoyment? I will explain; the enjoyment was just from the too intense consciousness of one's own degradation; it was from feeling oneself that one had reached the last barrier, that it was horrible, but that it could not be otherwise; that there was no escape for you; that you never could become a different man; that even if time and faith were still left you to change into something different you would most likely not wish to change; or if you did wish to, even then you would do nothing; because perhaps in reality there was nothing for you to change into.”
 
@@ -3773,25 +3700,17 @@
 
 “Inventors and geniuses, at the beginning of their careers (and very often at the end as well), have almost always been regarded in society as no more than fools—that is a most routine observation, well known to everyone.”
 
-“Fraților, este important să nu vă mințiți pe voi înșivă. Cel care se minte pe sine însuși și se lasă pătruns de propria minciună ajunge să nu mai deosebească niciodată minciuna de adevăr și, treptat, chiar se înstrăinează de orice formă de adevăr, și de cel din interiorul său, și de cel din afară, din jur, pierzîndu-și totodată, stima față de sine și față de alții. Dacă nu respectă pe nimeni, încetează să mai iubească și atunci, pentru a-și umple timpul, se consacră plăcerilor trupești și patimilor, ajungând să aibă un comportament vicios și brutal, și toate acestea i se întâmplă pentru că ajunge să se mintă deopotrivă pe sine și pe ceilalți din jur. Cel care se minte pe sine devine suspicios și este primul care găsește motive de supărare. Nu-i așa că, uneori, e foarte plăcut să te superi? Cu toate că omul știe că nimeni nu l-a jignit cu ceva, că el însuși și-a inventat supărarea și a mințit pentru împodobirea exagerată a unei clipe, că a înflorit unele fapte ca să-și creeze un tablou cât mai convingător pentru sine, că s-a legat de un cuvânt și a făcut dintr-o boabă de linte un munte, este primul care se îmbufnează și se enervează doar ca să-și facă plăcere și ca să trăiască din plin această senzație de plăcere, ajungând, totodată, să devină dușmanul propriului adevăr.”
-
-“И видите, как все интересуются; все подошли; все на мою печать смотрят, и ведь не запечатай я статью в пакет, не было бы никакого эффекта! Ха-ха! Вот что она значит, таинственность!”
-
 “I certainly was in some uneasiness. I was, of course, not accustomed to society of any kind. At school I had been on familiar terms with my schoolfellows, but I was scarcely friends with anyone; I made a little corner for myself and lived in it. But this was not what disturbed me. In any case I vowed not to let myself be drawn into argument and to say nothing beyond what was necessary, so that no one could draw any conclusions about me; above all—to avoid argument.”
 
 “Why, my dear fellow, you may drive yourself into delirium if you have the impulse to work upon your nerves, to go ringing bells at night and asking about blood!”
 
 “You will say that that was in the comparatively barbarous times; that these are barbarous times too, because also, comparatively speaking, pins are stuck in even now; that though man has now learned to see more clearly than in barbarous ages, he is still far from having learnt to act as reason and science would dictate.”
 
-“Ces gens-là, la minute d’avant, ne savent pas s’ils vous égorgeront ou non, et puis, une fois qu’ils tiennent un couteau entre leurs mains tremblantes, et qu’ils sentent le premier jet de sang sur leurs doigts, il ne leur suffit plus de vous égorger, il faut qu’ils vous coupent la tête, tout net : « houp ! » comme disent les forçats. C’est bien cela !”
-
 “He proposes, as a final solution to the question, the division of mankind into two unequal parts. One-tenth is to receive personal freedom and unlimited rights over the remaining nine-tenths.6”
 
 “But there are a few peculiar men among them who believe in God and are Christians, but at the same time are socialists. These are the people we are most afraid of. They are dreadful people! The socialist who is a Christian is more to be dreaded than a socialist who is an atheist.”
 
 “Listen, nothing's better than being useful. Tell me how, at the present moment, I can be most of of use. I know it's not for you to decide that, but I'm only asking for your opinion. You tell me, and what you say I swear I'll do! Well, what is the great thought?"<br><br>"Well, to turn stones into bread. That's a great thought."<br><br>"The greatest? Yes, really, you have suggested quite a new path. Tell me, is it the greatest?"<br><br>"It's very great, my dear boy, very great, but it's not the greatest. It's great but secondary, and only great at the present time. Man will be satisfied and forget; he will say: 'I've eaten it and what am I to do now?' The question will remain open for all time.”
-
-“el socialismo no es sólo una doctrina obrera, sino que representa el ateísmo en su forma contemporánea;”
 
 “The last moment had come, the last drops had to be drained! So a man will sometimes go through half an hour of mortal terror with a brigand, yet when the knife is at his throat at last, he feels no fear.”
 
@@ -3813,11 +3732,7 @@
 
 “It is a year and eight months since I last looked at these notes of mine. I do so now only because, being overwhelmed with depression, I wish to distract my mind by reading them through at random. I left them off at the point where I was just going to Homburg. My God, with what a light heart (comparatively speaking) did I write the concluding lines!—though it may be not so much with a light heart, as with a measure of self-confidence and unquenchable hope. At that time had I any doubts of myself? Yet behold me now. Scarcely a year and a half have passed, yet I am in a worse position than the meanest beggar. But what is a beggar? A fig for beggary! I have ruined myself—that is all. Nor is there anything with which I can compare myself; there is no moral which it would be of any use for you to read to me. At the present moment nothing could well be more incongruous than a moral. Oh, you self-satisfied persons who, in your unctuous pride, are forever ready to mouth your maxims—if only you knew how fully I myself comprehend the sordidness of my present state, you would not trouble to wag your tongues at me! What could you say to me that I do not already know? Well, wherein lies my difficulty? It lies in the fact that by a single turn of a roulette wheel everything for me, has become changed. Yet, had things befallen otherwise, these moralists would have been among the first (yes, I feel persuaded of it) to approach me with friendly jests and congratulations. Yes, they would never have turned from me as they are doing now! A fig for all of them! What am I? I am zero—nothing. What shall I be tomorrow? I may be risen from the dead, and have begun life anew. For still, I may discover the man in myself, if only my manhood has not become utterly shattered.”
 
-“Ahora o nos horrorizamos o fingimos que nos horrorizamos mientras saboreamos el espectáculo como amantes de las emociones fuertes, extravagantes, que animan nuestro ocio cínico e indolente; o como niños pequeños espantamos con las manos a los fantasmas terribles y escondemos la cabeza en la almohada hasta que pase la terrible visión, para poco después olvidarla entre diversiones y juegos. Pero en algún momento también nosotros tendremos que empezar a vivir juiciosa y reflexivamente, también nosotros tendremos que dirigir la mirada hacia nosotros mismos como sociedad, también nosotros tendremos que comprender, aunque sea un poco, nuestra cosa pública o, al menos, establecer los inicios para su comprensión.”
-
 “He entered a confectioner's shop to rest, once. He was in a state of nervous excitement and perturbation; he noticed nothing and no one; and he felt a craving for solitude, to be alone with his thoughts and his emotions, and to give himself up to them passively. He loathed the idea of trying to answer the questions that would rise up in his heart and mind. "I am not to blame for all this," he thought to himself, half unconsciously.”
-
-“il m’aimait tout en me haïssant ; cet amour est de tous le plus fort...”
 
 “I have a longing for life, and I go on living in spite of logic.”
 
@@ -3825,25 +3740,15 @@
 
 “Oh, God and all the rest of it.”<br>“What, don’t you believe in God?”<br>“Oh, I’ve nothing against God. Of course, God is only a hypothesis, but . . . I admit that He is needed . . . for the order of the universe and all that . . . and that if there were no God He would have to be invented,” added Kolya, beginning to blush.”
 
-“‎"El verdadero “gentleman” no debe denotar emoción aunque pierda toda su fortuna. Debe hacer poco caso del dinero, como si fuese cosa que no mereciera la pena de fijar atención en él.”
-
-“أنا أري أن قتل إنسان بسبب ارتكابه جريمة قتل هو قصاص لا تناسب بينه وبين الجريمة نفسها. إن قتل قاتل أفظع كثيرا من جريمة القتل التي ارتكبها ذلك القاتل. إن الإنسان الذي يقتله القتلة،إذ يذبحونه ليلا في غابة أو غيرها، يظل إلي أخر لحظة يأمل أن ينجو. يروي الناس عن مقتولين أنهم ظلوا،بعد حز رقابهم،يأملون ويحاولون الفرار ويتضرعون سائلين الشفقة عليهم والرأفة بهم. أما في الإعدام فإن الأمل الأخير، الأمل الذي يجعل احتمال الموت أسهل عشر مرات ينترع منك "حتما". إن صدور الحكم واستحالة الإفلا منه هما اللذان يجعلان العذاب رهيبا فظيعا”
-
 “I grieve for my little son, father, for my little son.”
 
 “They wanted to speak, but could not; tears stood in their eyes. They were both pale and thin; but those sick pale faces were bright with the dawn of a new future, of a full resurrection into a new life.”
-
-“Тут одна только правда, а стало быть, и несправедливо”
 
 “Truth with love is a lie”
 
 “It is that instinctive need of having a worship in common that is the chief suffering of every man, the chief concern of mankind from the beginning of times. It is for that universality of religious worship that people destroyed each other by sword.”
 
-“أنا أري أن قتل إنسان بسبب ارتكابه جريمة قتل هو قصاص لا تناسب بينه وبين الجريمة نفسها. إن قتل قاتل أفظع كثيرا من جريمة القتل التي ارتكبها ذلك القاتل. إن الإنسان الذي يقتله القتلة،إذ يذبحونه ليلا في غابة أو غيرها، يظل إلي أخر لحظة يأمل أن ينجو. يروي الناس عن مقتولين أنهم ظلوا،بعد حز رقابهم، يأملون ويحاولون الفرار ويتضرعون سائلين الشفقة عليهم والرأفةبهم. أما في الإعدام فإن الأمل الأخير، الأمل الذي يجعل احتمال الموت أسهل عشر مرات ينترع منك "حتما". إن صدور الحكم واستحالة الإفلات منه هما اللذان يجعلان العذاب رهيبا فظيعا”
-
 “for the lawyers, who cared not about the moral aspect of the case, but only, so to speak, about its contemporary legal aspect.”
-
-“Que tu actividad sea continua. Si por la noche, antes de dormirte, te acuerdas de que has dejado de cumplir algún deber, levántate en el acto y cúmplelo. Si los que te rodean se niegan a escucharte, por malicia o por indiferencia, arrodíllate y pídeles perdón, pues en realidad tuya es la culpa de que no quieran escucharte. Si se niegan a oírte los irascibles, sírvelos en silencio y humildemente, sin perder jamás la esperanza. Si todos se apartan de ti y algunos te rechazan con violencia, permanece solo, arrodíllate, besa la tierra, riégala con tus lágrimas, aunque nadie te vea ni te oiga. Estas lágrimas darán fruto.”
 
 “When i look around me, i realize that people don't care, hardly anyone does, and i'm the only one who cannot bear it. It is dreadful, just dreadful!”
 
@@ -3851,19 +3756,11 @@
 
 “Yes, I had this dream then, my dream of the third of November! They<br>tease me now that it was just a dream. But does it make any difference whether<br>it was a dream or not, if this dream proclaimed the Truth to me? For if you once<br>knew the truth and saw it, then you know that it is the truth and there is and can<br>be no other, whether you’re asleep or alive. So let it be a dream, let it be, but this<br>life, which you extol so much, I wanted to extinguish by suicide, while my dream,<br>my dream - oh, it proclaimed to me a new, great, renewed strong life!”
 
-“En vista de que ni siquiera esto soy capaz de comprender, he decidido no intentar comprender a Dios. Confieso humildemente mi incapacidad para resolver estas cuestiones. En esencia, mi mentalidad es la de Euclides: una mentalidad terrestre. ¿Para qué intentar resolver cosas que no son de este mundo? Te aconsejo que no te tortures el cerebro tratando de resolver estas cuestiones, y menos aún el problema de la existencia de Dios. ¿Existe o no existe? Estos puntos están fuera del alcance de la inteligencia humana, que sólo tiene la noción de las tres dimensiones. Por eso yo admito sin razonar no sólo la existencia de Dios, sino también su sabiduría y su finalidad para nosotros incomprensible.”
-
 “The stupider one is, the closer one is to reality. The stupider one is, the clearer one is. Stupidity is brief and artless, while intelligence wriggles and hides itself. Intelligence is a knave, but stupidity is honest and straight forward.”
 
 “Man is a creature who gets used to everything, and that, I think, is the best definition of him.”
 
-“Dintre toate lipsurile studentului, cea dintîi şi cea mai de seamă era fără îndoială lipsa de respect faţă de tatăl lui. De altfel şi bătrînul era adesea plicticos de n-avea pereche. In primul rînd era peste măsură de curios, în al doilea rînd nu-l lăsa să înveţe, pentru că trăncănea într-una şi punea întrebări prosteşti — lipsite cu totul de temei şi, în cele din urmă, mai venea uneori şi beat. Fiul îşi dezvăţa încetul cu încetul părintele de aceste păcate, adică de dorinţa de a-şi vîrî nasul pretutindeni şi de a trăncăni verzi şi uscate, şi, în sfîrşit, izbuti să-l facă pe bătrîn să-l asculte ca pe un oracol şi să nu deschidă gura fără îngăduinţa lui. Bietul bătrîn nu mai contenea să se minuneze şi să se bucure de Petenka al lui (aşa-i spunea el). Cînd venea să-l vadă, era întotdeauna sfios şi îngrijorat, neştiind pesemne cum o să-l primească fiul şi nu îndrăznea multă vreme să-i calce pragul; dacă mă nimerea pe mine prin apropiere, mă descosea pe puţin vreo douăzeci de minute, întrebîndu-mă cum e cu Petenka al lui? Dacă-i sănătos, în ce ape se scaldă şi dacă nu lucrează cumva la ceva cu totul deosebit ? Şi ce anume face : scrie, citeşte sau cugetă ? Dacă-l îmbărbătam şi-l linişteam îndeajuns, bătrînul îşi lua în cele din urmă inima în dinţi şi intra tiptil-tiptil, deschizînd încetinel uşa, prin care vîra mai întîi capul; dacă vedea că băiatul lui nu se supără şi-i face un semn, trecea binişor în odaie, îşi lepăda paltonaşul şi pălăria — veşnic boţită, găurită şi cu marginile rupte — le atîrna în cuier, cu multă băgare de seamă şi fără zgomot; apoi se aşeza într-un colţ, pe scaun, tot atît de încetişor şi-l mînea din ochi pe Petenka al lui, prinzîndu-i toate mişcările şi căutînd să ghicească în ce toane e. Dacă Petenka nu era cît de cît în apele lui şi bătrînul o vedea, se ridica numaidecît şi spunea : «Eu, Petenka, numai aşa... am trecut doar pentru o clipă. Să vezi... am fost departe şi dacă am trecut pe aici, am intrat să mă odihnesc». Apoi îşi lua tăcut şi supus paltonaşul şi pălăria ponosită, deschidea iar uşa fără zgomot şi pleca, cu un zîmbet silit, ca să înăbuşe durerea strînsă în suflet şi să nu i-o arate fiului. Dar cînd se-ntîmpla ca fiul să-şi primească bine tatăl, acesta nu mai ştia ce să facă de bucurie. Mulţumirea i se citea pe faţă, în purtări, în mişcări. De cîte ori îi vorbea băiatul, bătrînul se sălta puţin de pe scaun şi-i răspundea încet, slugarnic, aproape cu evlavie, căutînd să întrebuinţeze vorbele cele mai alese, adică cele mai caraghioase. Dar, hotărît lucru, vorbirea frumoasă nu prea era de el: se încurca şi se fîstîcea în aşa hal, că nu ştia ce să mai facă cu mîinile şi ce să se facă el singur, şi multă vreme după ce isprăvea, mai bolborosea pentru el răspunsul cuvenit, căutînd parcă să-şi îndrepte greşeala. Dacă izbutea să răspundă cum trebuie, bătrînul se umfla în pene, îşi îndrepta pe rînd jiletca, cravata şi haina şi lua înfăţişarea unui om care-şi cunoaşte preţul. Uneori prindea atîta curaj, îndrăzneala lui mergea atît de departe, că se ridica încet de pe scaun, se apropia de raftul cu cărţi, îşi alegea o carte şi citea pe loc cîte ceva, aşa, la nimereală. Toate astea le făcea cu un sînge rece şi o nepăsare prefăcută, de parcă ar fi avut libertatea să umble întotdeauna în voie prin cărţile fiului său, de parcă ar fi fost obişnuit de cînd lumea cu vorba mîngîietoare a acestuia. Eu însă am văzut odată cu ochii mei cum s-a speriat bietul de el, cînd Pokrovski l-a rugat să nu mai pună mîna pe cărţi. Bătrînul s-a fîstîcit, s-a grăbit, a pus cartea de-a-ndoaselea, apoi a dat să-şi îndrepte greşeala, a întors-o, dar a băgat-o cu cotorul înăuntru; şi toate astea le făcea zîmbind, înroşindu-se şi căutînd să şteargă, cum se pricepea mai bine, urmele fărădelegii.”
-
-“ألا فلتكن سماؤك صافية، ألا فلتكن بسمتك الجميلة دائمًا مشرقة ومطمئنة، ولتكوني أنتِ مباركة على لحظة الغبطة والسعادة، التي وهبتها لقلبٍ آخر ممتنّ يتعيش في وحشة الوحدة”
-
 “When I fall into the abyss, I go straight into it, head down and heels up, and I'm even pleased that I'm falling in such a position.”
-
-“No es mi inteligencia la que me ayuda, sino el diablo.”
 
 “Love God's people, let not strangers draw away the flock, for if you slumber in your slothfulness and disdainful pride, or worse still, in covetousness, they will come from all sides and draw away your flock. Expound the Gospel to the people unceasingly… be not extortionate… . Do not love gold and silver, do not hoard them… . Have faith. Cling to the banner and raise it on high.”
 
@@ -3873,21 +3770,13 @@
 
 “Everything, even his crime, his sentence and imprisonment, seemed to him now in the first rush of feeling an external, strange fact with which he had no concern. But he could not think for long together of anything that evening, and he could not have analysed anything consciously; he was simply feeling. Life had stepped into the place of theory and something quite different would work itself out in his mind.”
 
-“ان الآلام انواع : ان هناك آلام تخفض قيمتنا و تنقص قدرنا كالجوع مثلا فالناس تحب ان تصدقنا فيما يتعلق بهذا النوع من الالام ليجعلوا من انفسهم محسنين إلينا فيما بعد .. أما إذا كان الألم ارفع من ذلك درجة او درجتين إذا كان ألما نحتمله فى النضال من اجل فكرة مثلا فإن الناس يرفضون ان يصدقونه بإستثناء قلة قليلة و هم لا يصدقونه لأنهم حين نظروا إلى صاحبه رأوا ان رأسه لس ذلك الرأس الذى لابد ان يكون فى نظرهم رأس من يتألم فى سبيل قضية رفيعة تلك الرفعة كلها و هم عندئذ يأبون ان يتعاطفوا معه أى تعاطف دون ان يكون فى موقفهم هذا شئ من روح الشر على كل حال”
-
-“إننا لا نستطيع أن نحب إنسانا إلا إذا ظل مختفيا عن نظرنا. فمتى لمحنا وجهه تبدد الحب”
-
 “He said that those five minutes seemed to him an infinite length of time, an immense richness; it seemed to him that during those five minutes he would live so many lives that there was no point in thinking about the last moment yet, so he made various allocations: he calculated the time he needed to say goodbye to his companions, and allotted some two minutes to it, then he allotted another two minutes to think about himself for the last time, and then look around him for the last time. He”
 
 “Hm ... yes ... a man holds the fate of the world in his two hands, and yet, simply because he is afraid, he just lets things drift -- that is a truism ... I wonder what men are most afraid of ...”
 
-“Виж какво, гълъбче, ще ти кажа откровено и просто: всеки порядъчен човек трябва да бъде под чехъла на някоя жена.”
-
 “he drew out of his pocket an old-fashioned flat silver watch, on the back of which was engraved a globe; the chain was of steel.”
 
 “Remember particularly that you cannot be a judge of anyone. For no one can judge a criminal until he recognizes that he is just such a criminal as the man standing before him, and that ha perhaps is more than all men to blame for that crime. When he understands that, he will be able to judge...If you can take upon yourself the crime of the criminal your heart is judging, take it at once, suffer for him yourself, and let him go without reproach.”
-
-“و أمل أن لا ينقلب ميلهـ إلى الأفكار الشعبيّة، كما يحث في كثير من الأحيان، إلى صوفيّة ضبابيّة وغيبيّة جاهلة في مجال الأخلاق، والى تعصب قوي أعمى على صعيد السياسة..”
 
 “Se habla del fuego del infierno tomando la expresión en su sentido literal. No me atrevo a sondear este misterio, pero me parece que si hubiese verdaderas llamas, los condenados se regocijarían, pues el tormento físico les haría olvidar, aunque sólo fuera por un instante, la tortura moral, mucho más horrible que la del cuerpo. Es imposible librarlos de este dolor, pues está dentro de ellos, no fuera.”
 
@@ -3905,8 +3794,6 @@
 
 “Spring was at hand. " I believe I might<br>recover," I thought, "if I could get out of this shell into the light of day, into the fields and woods." It was so long<br>since I had seen them. I remember, too, it came into my mind how nice it would be if by some magic, some<br>enchantment, I could forget everything that had happened in the last few years; forget everything, refresh my<br>mind, and begin again with new energy. In those days, I still dreamed of that and hoped for a renewal of life.<br>"Better go into an asylum," I thought, "to get one's brain turned upside down and rearranged anew, and then be<br>cured again.”
 
-“ولنكن جميعاً خجولين على ذكاء وحلاوة مثل كارتاشوف..”
-
 “Day succeeded day, and each day was like the last one.”
 
 “Work without ceasing. If you remember in the night as you go to sleep, "I have not done what I ought to have done," rise up at once and do it. If the people around you are spiteful and callous and will not hear you, fall down before them and beg their forgiveness; for in truth you are to blame for their not wanting to hear you. And if you cannot speak to them in their bitterness, serve them in silence and in humility, never losing hope. If all men abandon you and even drive you away by force, then when you are left alone fall on the earth and kiss it, water it with your tears and it will bring forth fruit even though no one has seen or heard you in your solitude.”
@@ -3922,8 +3809,6 @@
 “Raskolnikov had been listening intently, but with a sense of unhealthy discomfort.”
 
 “Why, suffering is the sole origin of consciousness.”
-
-“ذلك أن العلم يا بني ليس دائما ميزة. فمن الناس من يتباهى وينقاد للرغبة في إدهاش العالم، فلو كنتُ عالما فقد أرغب في ذلك أكثر من سائر البشر. أما وأنني جاهل لا أعرف شيئا فكيف يمكنني أن أتباهى؟”
 
 “...Poor Sonya! What a little gold-mine they've managed to get hold of there! And profit from! Oh yes, they draw their profits from it! And they've got used to it. They wept at first, but now they are used to it. Men are scoundrels, they can get used to anything!”
 
@@ -3943,23 +3828,9 @@
 
 “I see my fears being cast into the bodies of wild boars and hogs, and I watch them rush to a cliff where they fall to their deaths.”
 
-“هل يمكن أن تكون امرأةٌ خاليةً من الدناءة؟ لهذا ينبغي أن يعلو الرجل عليها، لهذا خُلقت مخلوقا مطيعا. المرأة رذيلة وإغراء، والرجل نبل وكرم. وستبقى الحال على هذا المنوال إلى آخر الدهر”
-
-“El hombre más sagaz es el que menos sospecha que puede caer ante un detalle insignificante.”
-
-“Страдание и боль всегда обязательны для широкого сознания и глубокого сердца. Истинно великие люди, мне кажется, должны ощущать на свете великую грусть.”
-
-“Quant à moi, j’étais tout à fait tranquille sur mon sort. Moi aussi, j’aimais passionnément mon art ; mais je savais dès le commencement de ma carrière que je resterais, au sens littéral du mot, un ouvrier de l’art. En revanche, je suis fier de ne pas avoir enfoui, comme l’esclave paresseux, ce que m’avait donné la nature, et, au contraire, de l’avoir augmenté considérablement. Et si on loue mon jeu impeccable, si l’on vante ma technique, tout cela je le dois au travail ininterrompu, à la conscience nette de mes forces, à l’éloignement que j’eus toujours pour l’ambition, la satisfaction de soi-même et la paresse, conséquence de cette satisfaction.”
-
 “[The Devil] I sincerely love people--oh, so much of what has been said about me is slander!”
 
-“إنك يا دونيتشكا تستهدفين مزيدا من الرخاء أما هنالك فالأمر لايزيد على الرغبة في تحاشي الموت جوعا”
-
-“Не забудем, что причины действий человеческих обыкновенно бесчисленно сложнее и разнообразнее, чем мы их всегда потом объясняем, и редко определенно очерчиваются”
-
 “What is hell? I maintain that it is the suffering of being unable to love.<br>— Fyodor Dostoyevsky, The Brothers Karamazov”
-
-“Había otra cosa que me hacía sufrir: “¡Yo soy uno, mientras ellos, son todos!”
 
 “I myself will perhaps cry out with all the rest, looking at the mother embracing her child’s tormentor: ‘Just art thou, O Lord!’ but I do not want to cry out with them. While there’s still time, I hasten to defend myself against it, and therefore I absolutely renounce all higher harmony. It is not worth one little tear of even that one tormented child who beat her chest with her little fist and prayed to ‘dear God’ in a stinking outhouse with her unredeemed tears!”
 
@@ -3967,15 +3838,9 @@
 
 “I knew a young lady of the last “romantic” generation who after some years of an enigmatic passion for a gentleman, whom she might quite easily have married at any moment, invented insuperable obstacles to their union, and ended by throwing herself one stormy night into a rather deep and rapid river from a high bank, almost a precipice, and so perished, entirely to satisfy her own caprice, and to be like Shakespeare’s Ophelia. Indeed, if this precipice, a chosen and favourite spot of hers, had been less picturesque, if there had been a prosaic flat bank in its place, most likely the suicide would never have taken place.”
 
-“... dupa ce a trecut o linie interzisa pentru el, incepe sa nu i se mai para nimic sfant pe lume, de parca ceva-l impinge sa sara peste orice fel de legalitate si putere si sa se delecteze cu libertatea cea mai neinfranata ...”
-
 “He had murdered his wife in a fit of jealousy, and immediately given himself up to the police. (This had considerably mitigated his sentence). Such crimes are never judged harshly in Siberia, but rather looked upon as an unfortunate accident which ought to be pitied and regretted rather than punished.”
 
-“«Ne mentez jamais! —<br>Napoléon, voire ami sincère».<br><br>«Никогда не лгите!<br>Наполеон, ваш искренний друг»”
-
 “And all that for the most foolish reason, which, one would think, was hardly worth mentioning: that is, that man everywhere and at all times, whoever he may be, has preferred to act as he chose and not in the least as his reason and advantage dictated. And one may choose what is contrary to one's own interests, and sometimes one positively ought (that is my idea).”
-
-“Antes de acusar a los otros, uno debe aprender a vivir”
 
 “He had not far to go; he knew indeed how many steps it was from the gate of his lodging house: exactly seven hundred and thirty. He had counted them once when he had been lost in dreams. At the time he had put no faith in those dreams and was only tantalising himself by their hideous but daring recklessness. Now, a month later, he had begun to look upon them differently, and, in spite of the monologues in which he jeered at his own impotence and indecision, he had involuntarily come to regard this "hideous" dream as an exploit to be attempted, although he still did not realise this himself. He was positively going now for a "rehearsal" of his project, and at every step his excitement grew more and more violent.”
 
@@ -3987,25 +3852,15 @@
 
 “On returning home I deferred for a time my desire to embrace all mankind.”
 
-“Kalbim konuşurken susmayı bilmem.”
-
 “And with such fictions we are willing to ruin a human life!”
-
-“هناك دوافع نفسية وراءكل هذا,وربما يعود ذلك الى انني جبان, وربما أتخيل, عامدا, وجود جمهور ما, لكي أشعر بشيء من العظمة حين أكتب.<br>هناك طبعا الاف الأسباب.ولنعد ثانية, فما هو هدفي من الكتابة بالضبط؟ واذا لم يكن ذلك لمصلحة الجمهور, فلماذا لا أتذكر هذه الحوادث في ذهني بدون أن أسجلها لى الورق؟<br>ذلك حق, إلا أنها ستكون أشد وقعا إذا كانت مكتوبة,وسيكون في إمكاني أن أنتقدنفسي, وأن أحسن أسلوبي. وبالاضافة الى ذلك فستنعشني الكتابة قليلا, لأنني اليةم قلق جدا بشأن حادثة من حوادث الماضي حضرت في ذهني بكب وضوح منذ أيام, وظلت مستحوذة علي وكأنها نغمة مقلقة لا يمكن الخلاص منها. بيد أنني يجب أن أتخلص منها بطريقة ما,ولدي مئات من هذه الذكريات,ولكن هذه الذكرى بالذات تبرز وحدها وتضايقني كثيرا. ولسبب من الاسباب أعتقد أنني أستطيع أن أتخلص منها اذا سجلتها على الورق, فلماذا لا أحاول؟..”
 
 “[The Devil] Mephistopheles, when he comes to Faust, testifies of himself that he desires evil, yet does only good. Well, let him do as he likes, it's quite the opposite with me. I am perhaps the only man in all of nature who loves the truth and sincerely desires good.”
 
 “As for my personal opinion, to love only prosperity is even somehow unseemly. Whether it's a good thing or a bad thing, smashing something is occasionally very pleasant too.”
 
-“Я вошел сюда с мукой в сердце…”
-
 “Sometimes I imagine that it was I that crucified him. He hanging there moaning, and I sit down facing him,eating pineapple compote. I like pineapple compote very much. Do u?”
 
 “I dream of seeing, and seem to see clearly already, our future. It will come to pass that even the most corrupt of our rich will end by being ashamed of his riches before the poor, and the poor, seeing his humility, will understand and give way before him, will respond joyfully and kindly to his honourable shame.”
-
-“لعلني أتمنى أن أنفذ إلى أسرارها ، أن تجئ إلي فتقول"أنت تعلم أنني أحبك" ، وإلا فما الذي أرغب فيه ، إذا لم تكن هذه الفكرة الجنونية ممكنة التحقيق؟ هل أعرف ما الذي أرغب فيه؟ إنني كالذي فقد صوابه. إن كل ما أريد هو أن أبقى قريبا منها ، في الهالة التي تحيط بها ، في الإشعاع الذي يصدر عنها ، إلى الأبد ، مدى الحياة.<br>لا أعرف أكثر من هذا .. هل أطيق أن أبتعد عنها؟”
-
-“La forza centripeta sul nostro pianeta è ancora terribilmente forte. Ho voglia di vivere e vivo, anche a dispetto della logica. Sebbene io possa non credere nell' ordine delle cose, tuttavia amo le foglioline vischiose che si dischiudono in primavera, amo il cielo azzurro, amo alcune persone che a volte si amano senza sapere esattamente il perché - ci crederesti? - amo alcune grandi imprese umane, sebbene da un pezzo abbia cessato di credere in esse, eppure per una vecchia abitudine le ammiro con tutto il cuore.Qui non c'entrano l'intelligenza, la logica, questo è amare dal proprio intimo, dalle viscere, amare la forza della propria giovinezza.”
 
 “Is it true that in Petersburg you belonged to some secret society of bestial sensualists? Is it true that you could give lessons to the Marquis De Sade?”
 
@@ -4014,10 +3869,6 @@
 “Oh! what does grief matter—what does misfortune matter, if one knows how to be happy?”
 
 “The harmonious man, it needs to be said, hardly exists at all; out of many tens, even hundreds of thousands perhaps one or two at most are encountered, and even then in rather feeble versions.”
-
-“¿Por qué no decir enseguida lo que siente el corazón cuando se tiene la seguridad de poder ser escuchado? Todos los seres parecen mucho más severos de lo que son en realidad e imaginan que rebajan sus sentimientos expresándolos demasiado pronto”
-
-“إن العصر الذهبي هو أمنية من أكثر الأماني استحالة على هذه الأرض، ولكنها على استحالتها رأينا بشرا يهبون لها حياتهم كلها، وقواهم كلها، وفي سبيلها مات أنبياء وقُتل أنبياء، وبدونها لا تريد الشعوب أن تعيش، ولا تستطيع حتى أن تموت!”
 
 “We are born dead, and moreover we have long ceased to be the sons of living fathers.”
 
@@ -4043,14 +3894,6 @@
 
 “If someone had told him at that moment that he was in love, passionately in love, he would have rejected the notion with surprise and possibly even with indignation. And if someone had gone on to say that Aglaya's letter was a love letter, arranging a lovers' rendezvous, he would have burned with shame for such a man and, perhaps, have challenged him to a duel. All this was perfectly sincere and not once did he have any doubt or admit the slightest "double" thought about the possibility of this girl loving him, or even of him loving her. He would have been ashamed of having such an idea! The possibility of love for him, for "a man like him," he would have found monstrous. It crossed his mind that, if there was anything to it at all, it was simply a prank on her part, but he was quite unconcerned by the whole matter and found it all too natural. [...] All that concerned him was to see her again tomorrow, early in the morning, to sit beside her on the green bench, and hear her tell him how to load a pistol and to look at her. He wanted nothing more than that.”
 
-“Para renovar o Mundo, é necessário que os homens tenham a iniciativa de mudar de caminho”
-
-“Me aterra pensar en el futuro, porque el futuro es otra vez la soledad, esta vida rutinaria e inútil”
-
-“Braćo, ne bojte se grehova ljudskih, volite čoveka i u grehu njegovom, jer kad ko voli čoveka grešnog, to je već slika Božanske ljubavi i vrhunac je ljubavi na zemlji. Volite sve stvorenje Božje i celokupno i svaku mrvicu. Svaki listić, svaku zraku Božju volite. Volite životinje, volite bilje, volite svaku stvar. Budeš li voleo svaku stvar – i tajnu ćeš Božju razumeti u stvarima. A shvatiš li je jedared, ti ćeš je posle neumorno početi poznavati sve dalje i više, svakodnevno. I zavolećeš, najzad, sav svet vascelom i vasionom ljubavlju. Životinje volite: njima je Bog dao klicu misli i tihu radost. Nemojte im je narušavati i remetiti, ne mučite ih, ne oduzimajte im radost, ne protivite se misli Božjoj. Čoveče, ne uznosi se, ne misli da si bolji od životinje: one su bezgrešne, a ti, sa svojim veličanstvom, ti samo gnojiš zemlju svojom pojavom, na njoj trag svoj gnojni ostavljaš posle sebe, - i to, avaj, skoro svaki, svaki između nas!<br>Decu volite naročito, jer ona su bezgrešna kao anđeli i žive da bi nas razdragala i usrećila; ona žive zarad čišćenja srdaca naših, kao neki putokaz za nas. Teško onome ko uvredi dete...”
-
-“- Oh, Nastenjka, Nastenjka! Ju as që mund ta merrni me mend sa shumë po më ngazëlleni! Po më pajtoni me vetveten! Nuk kam për të menduar kurrë keq për veten, siç më ka ndodhur rëndomë më parë! Se ku i dihet, mua dhe brenga sfilitëse, që jam treguar armik i vetes, ndoshta do më daravitet! Se jo një herë ia kam nxitur vetes mendimin që jeta e jetuar ka qenë mëkatare dhe deri kriminale. Dhe mos pandehni që po i zmadhoj gjërat. Kam kaluar e jo pak çaste trishtimi të pangushëllueshëm!... Më ka rënduar si plumb në zemër vetëdija e pazotësisë për të jetuar me të tashmen, me realen; e kam katandisur veten deri në atë farë feje, sa e kam mallkuar fatin tim, e kam sikterisur veten... Se mua, Nastenjka, ja se ç'më ka ndodhur pas netëve të kaluar me fantazime: jam kthyer në realitet, ku gjërat shihen esëll. Gjendje e padurueshme! Sheh tollovinë njerëzore, sheh dhe dëgjon si pulson jeta, vë re që dhe jeta e të tjerëve nuk është e përsosur, e jetojnë ashtu si u vjen, kapen fort pas çdo të mire që kjo u ofron, e përballojnë, kur ju shtie me shkelma, vë re që përtërihen e mëkëmben pas fatkeqsive, deri dhe rilinden; habitesh që asnjë minutë e jetës nuk ngjason me të mëparshmet, ndërkohë që fantazimet janë mërzindjellëse në monotoninë e tyre, janë frikamane para pengesave, skllave të vegimeve dhe të hijeve, të ideve dhe të hamendjeve të nxehta, ato janë skllave të resë, që e mbulon befas diellin dhe e mbush me pikëllim zemrën e vërtetë petërburgase, e cila, ngaqë e çmon aq shumë ndaj dhe drithërohet po aq shumë, kur e sheh t'i fshihet. Se fantazia në pikëllim ngjizet e harbon! Mirëpo vjen një çast që e ndien si venitet, si kapitet e deri vdiret në tendosjen e saj të pandërprerë, pa të cilën s'ka si bën, e sheh këtë dhe bindesh që fantazimet nuk janë të pashtershme, pale që edhe vetë ti zë e burrërohesh, i braktis ëndërrimet dhe përsiatjet e dikurshme... Vjen një çast, që fantazia bëhet copë e çikë dhe, në mos paç tjetër jetë, s'ke nga ia mban, do s'do detyrohesh dhe sajon nga rrënojat, bashkon mbeturinat e së parës. E pra, shpirti të do një të re! Ëndërrimtari i gjorë më kot zë e rrëmon në hirin e fantazisë së shkrumuar, për të gjetur aty ndonjë kongjill të ndezur, që t'i fryjë e t'i fryjë, me shpresën mos ndizet zjarri i ri, ku të ngrohë zemrën e kallkanosur, dhe të rimëkëmbë atë që dikur ishte aq hamngjitëse dhe joshëse, që ia rrëmbente shpirtin dhe ia vlonte gjakun, ia rrëmbushte sytë, duke e mashtruar me aq marifet! Dhe e dini, Nastenjka, sa keq u katandisa? S'më mbeti tjetër veç të festoja përvjetorin e ndijimeve të para fantastike, të atyre që pandehja se i pata përjetuar, kurse në vërtetë nuk i pata përjetuar, sepse edhe vetë përvjetori si i tillë imagjinar ishte, pjellë fantazie qe. Iu drejtova përkujtimit, ngaqë më mungonin fantazi të reja, nuk kisha nga i shtrydhja! Se ëndërrimet shtrydhen, Nastenjka! Ma kishte fort ënda të vizitoja ato vende, që lidheshin me lumturinë time të dikurshme, ta përshtasja të tashmen në përputhje me të atëhershmen. U ënda në ato rrugë të zymta pa ndonjë synim apo qëllim real, të përcaktuar, u sorollata sa desha nëpër Petërburgun aspak gazmor dhe kujtova e kujtova sa u enjta të përjetuarat asohere. Shihja me sytë e mendjes si ecja i vetmuar në po atë trotuar, si më mbyste pikëllimi dhe angështia, i rënduar nga ato fantazime aq të lemerishme. Nuk them se atëherë isha në gjendje më të mirë shpirterore, ama më i qetë se tani isha. Atëherë jetohej më këndshëm, s'i kisha tërë ato mendime të zeza për të cilët sapo ju fola, por as këtë vrasje ndërgjegje që po provoj tani. Endesha në atë përvjetor dhe thosha me vetë: "Sa shpejt që fluturojnë vitet!" dhe pas gjithë kësaj, përsëri ajo pyetja brengë: "Po ti ç'je duke bërë, ndërkohe që vitet fluturojne? A po e jeton jetën? Se vitet ikin e shkojnë dhe të troket pleqeria, bashkë me të dhe pafuqia, po edhe lloj-lloj mënxyrash! Se bota e fantazisë një ditë prej ditësh do të vdiret, ëndërrimet do shuhen e fashiten, do bien në tokë si gjethet në vjeshtë!..." O Nastenjka! Sa”
-
 “A man who lies to himself and listens to his own lie comes to a point where he does not discern any truth either in himself or anywhere around him, and thus falls into disrespect towards himself and others. Not respecting anyone, he ceases to love, and having no love, he gives himself up to passions and coarse pleasures, in order to occupy and amuse himself, and in his vices reaches complete bestiality, and it all comes from lying continually to others and to himself. A man who lies to himself is often the first to take offense.”
 
 “Yes, a man in the nineteenth century must and morally ought to be pre-eminently a characterless creature; a man of character, an active man is pre-eminently a limited creature.”
@@ -4061,27 +3904,19 @@
 
 “Talk nonsense to me, by all means, but do it with your own brain, and I shall love you for it. To talk nonsense in one's own way is almost better than to talk a truth that is someone else's; in the first instance you behave like a human being, while in the second you are merely being a parrot!”
 
-“وأقنعت نفسي بأن ذلك ليس حلما ثقيلا ، ليس كابوسا رهيبا ، بل هو الواقع ، الواقع نفسه . نعم إنه الواقع نفسه .”
-
-“يستطيع المرء في الفقر أن يظل محافظًا على نبل عواطفه الفطرية، أما في البؤس فلا يستطيع ذلك يومًا.”
-
 “.'..In his heart there is the secret of renewal for all, the power that will finally establish the truth on earth, and all will be holy and will love one another, and there will be neither rich nor poor, neither exalted nor humiliated, but all will be the like the children of God, and the true kingdom of Christ will come.' That was the dream in Alyosha's heart." (Dostoyevsky, "The Brothers Karamazov: The Elders")”
 
 “Evidently it’s true that the entire second half of a man’s life is usually composed solely of the habits accumulated during the first half.”
 
 “whenever I try to describe anything with more than ordinary distinctness, I fall into the mistake of talking sheer rubbish.”
 
-“İnsan bazen en imkansız, en çılgın düşünceye, sanki bir şeyler olacakmışçasına öyle bir inanır ki, gerçek olması için olmadık fikirler geçer aklından.”
-
 “Coming at twenty to his father's house, which was a very sink of filthy debauchery, he, chaste and pure as he was, simply withdrew in silence when to look on was unbearable, but without the slightest sign of contempt or condemnation. His father, who had once been in a dependent position, and so was sensitive and ready to take offense, met him at first with distrust and sullenness.”
 
 “I'm a dreamer; I have so little real life that I regard such momenta as this one, now, to be so rare that I can't help repeating these moments in my dreams.”
 
-“نشعر بألم الآخرين شعورًا أعمق حين نكون أشقياء معذبين”
-
 “Let me be sinful before everyone, but so that everyone will forgive me, and that is paradise. Am I not in paradise now?”
 
-“Your slave and enemy,<br>D.Karamazov”
+“Your slave and enemy, D.Karamazov”
 
 “An officer put me in my place from the first moment.<br><br>I was standing by the billiard-table and in my ignorance blocking up the way, and he wanted to pass; he took me by the shoulders and without a word--without a warning or explanation--moved me from where I was standing to another spot and passed by as though he had not noticed me. I could have forgiven blows, but I could not forgive his having moved me without noticing me.”
 
@@ -4092,8 +3927,6 @@
 “These sweet little buds are char-ming for a couple of years when they are young, even for three… and then, well, they spread out forever… producing in their husbands that sad in-dif-fer-ence, which so promotes the development of the woman question… if I understand that question correctly…”
 
 “Everyone thinks of himself, and he lives most gaily who knows best how to deceive himself.”
-
-“أوشك راسكولنيكوف أن ينفجر ضاحكًا. ولكن قلبه قد انقبض في الوقت نفسه انقباضًا يبلغ درجة العذاب.<br>بدا له أن ماضيه كله، وأفكاره كلها، وجميع المسائل والعواطف التي كان يعالجها في الماضي، وهذا المشهد نفسه، وهو ذاته، وكل شيء.. كل شيء يرقد الآن في أسفل تحت قدميه، في قرارة هوةٍ سحيقة لا نهاية لها..”
 
 “One of the vilest and most hateful things connected with money is that it can buy even talent; and will do so as long as the world lasts.”
 
@@ -4111,10 +3944,6 @@
 
 “in the newspapers I read a biography about an American. He left his whole huge fortune to factories and for the positive sciences, his skeleton to the students at the academy there, and his skin to make a drum so as to have the American national anthem drummed on it day and night.”
 
-“Elbette insan bir makine değildir; işkenceci görevi gereği dayak atar, ama arada bir onun da coştuğu olur. Ancak dayak atarken, çoğu zaman kurbanından kendi hıncını çıkardığı için zevk duymaz. Amacı vuruşlarındaki çevikliği, işinde ne kadar usta olduğunu göstererek arkadaşlarıyla seyircilerin takdirlerini kazanmaktır. Yani bu işi sanat aşkına yapar.”
-
-“Cuando fracasan, incluso los mejores proyectos parecen estúpidos.”
-
 “There are moments in the life of old liars who have been play-acting all their lives when they are so carried away by the part they're playing that they actually do weep and tremble with excitement, in spite of the fact that at that very moment (or second later) they could have whispered to themselves: 'you're lying, you shameless old fool! Now, too, you're just acting a part in spite of all your "sacred" wrath and "sacred" moment of your wrath.' Dmitry frowned threateningly and looked at his father with indescribable contempt.”
 
 “The most disgusting thing is that you're always sad about something!”
@@ -4125,13 +3954,9 @@
 
 “It does happen sometimes that a person commits a villainy and praises himself for it, elevating his villainy to the level of a principle, and claiming that <i>l’ordre</i> and the light of civilization are precisely expressed in that abomination; the unfortunate one ends by believing this sincerely, blindly and honestly.”
 
-“A vida só me é dada uma vez, e ela nunca mais voltará—eu não quero esperar a 'felicidade geral'. Eu mesmo quero viver; do contrário o melhor seria não existir.”
-
 “You mustn’t think to embarrass them with your witnessing, Your Excellency; they won’t be embarrassed.”
 
 “He could not pass by children without his soul being shaken: such is the man.”
-
-“إنه ينتمي إلى هذه الفئة من الغيورين الذين يتخيلون أفظع الأشياء متى ابتعدوا عن المرأة المحبوبة، ويعانون عذابا رهيبا من تصور "خيانتها" لهم أثناء غيابهم. ولكن ميتيا كان متى التقى بجروشنكا مرة أخرى مضطربا قلقا يائسا معذب النفس من يقينه بأنها خانته، لا يلبث أن يسترد شجاعته حين يرى وجهها الضاحك الرقيق المرح، فإذا هو يطرد من فكره كل شيء، ويشعر بالخجل من غيرته، ويلوم نفسه على قلة الثقة”
 
 “If one wants to know any man well, one must consider him gradually and carefully, so as not to fall into error and prejudice, which are very difficult to correct and smooth out later.”
 
@@ -4139,23 +3964,15 @@
 
 “You know it is sometimes very pleasant to take offense, isn't it? A man may know that nobody has insulted him, but that he has invented the insult for himself, has lied and exaggerated to make it picturesque, has caught at a word and made a mountain out of a molehill—he knows that himself, yet he will be the first to take offense, and will revel in his resentment till he feels great pleasure in it, and so pass to genuine vindictiveness. But get up, sit down, I beg you. All this, too, is deceitful posturing....”
 
-“To go wrong in one's own way is better than to go right in someone else's. In the first case you are a man, in the second you're no better than a bird.”
-
-“ما حاجتكم دائماً إلى أن تغمروا بالنِّعم أولئك الذين لا يعبؤونَ بها؟”
-
 “The door from the next room suddenly opened with a timid, quiet creak, as if tghus aannouncing the entrance of a very insignificant person...”
 
 “Sometimes she put that question to her husband, and, as usual, she asked it hysterically, threateningly, expecting an immediate reply.”
-
-“الإنسان جبان، ولكن سافلٌ أيضاً ذلك الذي يصفه بالجُبن لهذا السبب!”
 
 “And how many ideas have there been upon earth, in human history, which only ten years earlier were unimaginable and which suddenly appeared when their mysteriously appointed season arrived, to go spreading all over the earth?”
 
 “Thou hast hid these things from the wise and prudent, and hast revealed them unto babes.”
 
 “Lying in one’s own way is almost better than telling the truth in someone else’s way; in the first case you’re a man, and in the second—no better than a bird!”
-
-“Unë nuk besoj se ti beson në atë që besoj unë, por besoj që ti nuk beson në atë që nuk besoj unë.”
 
 “People are very varied: some change their feelings easily, others with difficulty.”
 
@@ -4166,8 +3983,6 @@
 “People talk sometimes of 'bestial' cruelty, but that's a great injustice and insult to the beast; a beast can never be so cruel as a man, so artistically, so artfully cruel.”
 
 “Why does my action strike them as so horrible? Is it because it was a crime? What is meant by crime? My conscience is at rest. Of course, it was a legal crime, of course, the letter of the law was broken and blood was shed. Well, punish me for the letter of the law...and that's enough.”
-
-“O Zot! Të provosh qoftë edhe vetëm një minutë lumturie të madhe, të vërtetë, pse pak qënka kjo për një jetë njeriu?...”
 
 “Every anonymous communication is deserving of contempt, just because it's not signed.”
 
@@ -4181,10 +3996,6 @@
 
 “avoid contempt, both of others and of yourself: what seems bad to you in yourself is purified by the very fact that you have noticed it in yourself.”
 
-“Dosta je bilo! - izusti odlučno i svečano. - Dalje od mene, utvare, izmišljene strepnje, priviđenja!... Ima još života! Zar nisam sad maloprije živio? Nije mi se još život ugasio s onom babuskarom! Bog da joj duši dao lako i... i dosta je bilo, bakice, vrijeme da se smirite! Sad je zavladalo kraljevstvo razuma i svijetla i... i volje, i snage... i da vidimo sada! Da se ogledamo! - dometne pakosno, kao da se obraća nekoj mračnoj sili i izaziva je.”
-
-“آه، إنَّما أنا أحب الهذر والهذيان والخطأ والضلال. إنَّ الخطأ هو الميزة الوحيدة التي يمتاز بها الكائنُ الإنساني على سائر الكائنات الحيَّة”
-
 “But maybe there isn't any God.”
 
 “The whole article, quite a long and verbose one, was written with the sole purpose of self-display. One could simply read it between the lines: “Pay attention to me, look at how I was in those moments. What do you need the sea, the storm, the rocks, the splintered planks of the ship for? I’ve described it all well enough for you with my mighty pen. Why look at this drowned woman with her dead baby in her dead arms? Better look at me, at how I could not bear the sight and turned away. Here I am turning my back; here I am horrified and unable to look again; I’ve shut my eyes—interesting, is it not?” I”
@@ -4194,8 +4005,6 @@
 “There’s nothing in the world more difficult than candor, and nothing easier than flattery.”
 
 “There were rats in it, but Fyodor Pavlovich was not altogether angry with them:”
-
-“لا يكفي أن يكونَ المرء ذكياً حتَّى يتصرَّف بذكاء”
 
 “I am glad that at such a moment my young man turned out to be not so reasonable; the time will come for an intelligent man to be reasonable, but if at such an exceptional moment there is no love to be found in a young man's heart, then when will it come?”
 
@@ -4225,13 +4034,7 @@
 
 “And how they set me up in court! They really set me up!” “Even if they hadn’t set you up, you’d have been convicted anyway,” Alyosha said, sighing. “Yes, the local public is sick of me!”
 
-“Chiunque voglia sinceramente la verità è sempre spaventosamente forte.”
-
-“إن الإنسان المتفوق المثقف الذي يسعى وراء فكرة عليا، يدير ظهره للحياة اليومية أحيانا، ويصبح مضحكا، نزقا باردا، بل أقول بصراحة أنه يصبح غبيا، في الحياة العملية طبعا، بل يصبح آخر الأمر غبيا حتى في نظرياته”
-
 “There are people who thirst for blood like tigers. Any man who has once tasted this unlimited power over the blood, over the body and spirit of a human creature like himself, a creature created in the same image and subject to the same law of Christ; any man who has tasted this power, this boundless opportunity to humiliate most bitterly another being made in the image of God — becomes the servant instead of the master of his own emotions. Tyranny is a habit. It can and does eventually develop into a disease. I believe that the best of men may grow coarse, degrade to the level of a beast by sheer force of habit. Blood and power intoxicate one, they develop callousness and lust. The greatest perversions grow finally acceptable and even delicious to mind and heart. The man and the citizen perish in the tyrant for ever and the return to human dignity, remorse and spiritual rebirth becomes scarcely possible to him. Besides, the example and mere possibility of arbitrary power are contagious; they are indeed a great temptation. A society which regards such things calmly is already corrupt at the roots.”
-
-“Există firi sensibile şi de o netăgăduită delicatețe, care preferă totuşi cu îndărătnicie, cu o pudică râvnă, să nu-şi deschidă sufletul nici celei mai scumpe ființe, să nu-şi dezvăluie dragostea şi gingăşia nu numai în fața altora, dar nici măcar atunci când se află singure, între patru ochi : dimpotrivă, adeseori într-o asemenea intimitate ele devin mai stăpânite, lăsând doar arareori să apară la suprafaţă toată gingăşia sentimentelor lor, şi-atunci sentimentele acelea răbufnesc, se revarsă cu atât mai puternice cu cât mai îndelung au fost reținute.”
 
 “for it is precisely the humanity, affability, and brotherly compassion of a doctor which prove the most efficacious remedies for his patients.”
 
@@ -4239,15 +4042,9 @@
 
 “Every one who wants the supreme freedom must dare to kill himself. He who dares to kill himself has found out the secret of the deception. There is no freedom beyond; that is all, and there is nothing beyond. He who dares kill himself is God.”
 
-“Anderthalb Millionen, und dazu noch Fürst, und überdies noch, wie es heißt, ein Idiot: was will man mehr?”
-
 “She’s an arrogant woman! She doesn’t want to admit that she’s doing it to benefit others! Oh, these vile characters! Their love is like hatred. . . . Oh, how I . . . hate them all.”
 
 “in fact I've noticed that faith always seems to be less in the daytime.”
-
-“Not infrequently it turns out that a writer whom people have long credited with an extraordinary depth of ideas whom they have expected to exert an extraordinary and major influence on the direction of society, displays in the end such a watered down and minuscule version of his basic little idea that no one is even sorry that he’s succeeded in writing himself out.”
-
-“Tú no puedes imaginarte cómo te ama Dios, aunque tenga que amarte como pecadora. En”
 
 “And we may ask the scornful themselves: If our hope is a dream, when will you build up your edifice and order things justly by your intellect alone, without Christ? If they declare that it is they who are advancing towards unity, only the most simple-hearted among them believe it, so that one may positively marvel at such simplicity. Of a truth, they have more fantastic dreams than we. They aim at justice, but, denying Christ, they will end by flooding the earth with blood, for blood cries out for blood, and he that taketh up the sword shall perish by the sword”
 
@@ -4259,37 +4056,19 @@
 
 “Above all, avoid falsehood, every kind of falsehood, especially falseness to yourself. Watch over your own deceitfulness and look into it every hour, every minute. Avoid being scornful, both to others and to yourself. What seems to you bad within you will grow purer from the very fact of your observing it in yourself.”
 
-“Tudo isso provém de que eu não me respeito: mas aquele que se conhece pode se estimar, por pouco que seja?”
-
 “seeing that everything in the present age is weighed in the scales and by agreement, and people are seeking for nothing but their rights—‘a measure of wheat for a penny and three measures of barley for a penny’; and yet they want to keep a free spirit and a pure heart and a sound body aand all the gift of God. But by rights alone they won't keep them, and afterwards will follow the pale horse and he whose name was Death and with whom hell followed.”
 
 “The complete atheist stands on the next-to-last highest rung leading to the fullest and most complete faith (he may take that step, or he may not), but the indifferent man has no faith at all, except an ugly fear.”
 
 “Strive to love your neighbor actively and indefatigably. In as far as you advance in love you will grow surer of the reality of God and of the immortality of your soul. If you attain to perfect self-forgetfulness in the love of your neighbor, then you will believe without doubt, and no doubt can possibly enter your soul. This has been tried. This is certain.”
 
-“Porque el socialismo no es sólo una doctrina obrera, sino que representa el ateísmo en su forma contemporánea; es la cuestión de la torre de Babel, que se construyó a espaldas de Dios no por alcanzar el cielo desde la tierra, sino por bajar a la tierra el cielo.”
-
-“La inocencia es la fuerza de la inocencia”
-
 “-What is dumber than a dumb kindness?<br>-An evil fool.”
-
-“É indiscutível que o homem gosta muito de construir e traçar caminhos; mas como acontece então que ele ame tão apaixonadamente a destruição e o caos?”
 
 “At once I drink to the health of the artist who painted the picture worthy of Gay, because I love all that is "sublime and beautiful.”
 
-“Действительно, человек любит видеть лучшего своего друга в унижении пред собою; на унижении основывается большею частью дружба; и это старая, известная всем умным людям истина.”
-
-“هناك يا عزيزي ذكريات أليمة تحدث وجعا واقعيا. إن جميع الناس أو أكثر الناس يحملون ذكريات كهذه الذكريات، ولكنهم ينسونها، ثم يتفق المرء أن يتذكر بعد ذلك قسمة من قسمات الوجه أحيانا، فإذا هو ينشدّ إليها ولا يستطيع منها فكاكا”
-
 “Here is perhaps the one man in the world whom you might leave alone without a penny,in the center of an unknown town of a million inhabitants,and he would not come to harm. he would not die of cold and hunger, for he would be fed and sheltered at once;and if he were not, he would find a shelter for himself, and would cost him no effort or humiliation.And to shelter him would be no burden, but , on the contrary, would probably be locked on as a pleasure.”
 
-“Soy un observador, un extraño, y nada más. No soy responsable de nada de lo que pase. ¡Eso es! Así será de ahora en adelante.”
-
 “One who does not believe in God will not believe in God’s people. He who believes in God’s people will see His Holiness too, even though he had not believed in it till then. Only the people and their future spiritual power will convert our atheists, who have torn themselves away from their native soil.”
-
-“Lamentations ease the heart only by straining and exacerbating it more and more. Such grief does not even want consolation; it is nourished by the sense of its unquenchableness. Lamentations are simply the need to constantly irritate the wound.”
-
-“أيها السادة ان الأسراف في ادراك الأشياء والشعور بها مرض ، مرض حقيقي<br>مرض كامل .ان أدراكا عادياً هو ، من اجل حاجات الإنسان، اكثر من كاف”
 
 “Upon my word,” cried my adversary, annoyed, “if you did not want to fight, why did not you let me alone?” “Yesterday I was a fool, to-day I know better,” I answered him gayly. “As to yesterday, I believe you, but as for to-day, it is difficult to agree with your opinion,”said he. “Bravo,” I cried, clapping my hands. “I agree with you there too. I have deserved it!”
 
@@ -4327,17 +4106,7 @@
 
 “Disbelief in the devil is a French notion, a frivolous notion.”
 
-“يجب أن نعلن بغير تردد أنه ليس يكفي المرء أن ينسل نسلا حتى يكون أبا ‘ وإنما ينبغي له أن يستحق شرف هذا الاسم ، أنا أعلم أن هناك رأيا مختلفا عن هذا الرأي ، أن هناك فهما آخر لمعنى كلمة الأب ، هو أن أبي يظل أبي ولو كان شيطانا رجيما ومجرما عاتيا في حق أولاده وذلك يا سادتي لمجرد أنه أوجدني <br>!!”
-
-“Em todo caso, observa-se constantemente nele um certo constrangimento , sempre que atinge um fim. Tenta aproximar-se do fim, mas, tão logo o atinge, não está mais satisfeito; e isso é verdadeiramente bem cômico.”
-
 “Nastasia Philipovna was quite capable of ruining herself, and even of perpetrating something which would send her to Siberia, for the mere pleasure of injuring a man for whom she had developed so inhuman a sense of loathing and contempt. He had sufficient insight to understand that she valued nothing in the world —herself least of all —and he made no attempt to conceal the fact that he was a coward in some respects. For instance, if he had been told that he would be stabbed at the altar, or publicly insulted, he would undoubtedly have been frightened; but not so much at the idea of being murdered, or wounded, or insulted, as at the thought that if such things were to happen he would be made to look ridiculous in the eyes of society.”
-
-“Am văzut nenumărați oameni cărora e destul să le torni o găleată de apă rece în cap, ca să-și renege nu numai faptele, dar și ideile, care sunt gata să râdă primii de ceea ce socoteau sfânt cu un ceas înainte! Și când te gândești cu câtă ușurință se leapădă de orice!”
-
-“Il faut détruire l'idée de Dieu dans l'esprit de l'homme. Alors chacun saura qu'il est mortel, sans aucun espoir de résurrection, et chacun se résignera à la mort avec une fierté tranquille. L'homme s'abstiendra de murmurer contre la brièveté de la vie et il aimera ses frères d'une affection désintéressée. L'amour ne procurera que des jouissances brèves, mais la conscience même de cette brièveté en renforcera l'intensité autant que jadis elle se diluait dans les espérances d'un amour éternel.”
-
-“É possível que o homem não ame senão o bem-estar. Não é possível que ele ame na mesma medida o sofrimento? Não é possível que o sofrimento lhe seja tão vantajoso quanto o o bem-estar? O homem põe-se por vezes a amar apaixonadamente o sofrimento; isso é um fato.”
 
 “Love in dreams is greedy for immediate action, rapidly performed and in the sight of all. Men will even give their lives if only the ordeal does not last long but is soon over, with all looking on and applauding as though on the stage. But active love is labor and fortitude, and for some people too, perhaps, a complete science.”
 
@@ -4353,33 +4122,17 @@
 
 “And all will be happy, all the millions of creatures except the hundred thousand who rule over them. For only we, we who guard the mystery, shall be unhappy. There will be thousands of millions of happy babes, and a hundred thousand sufferers who have taken upon themselves the curse of the knowledge of good and evil.”
 
-“O fim dos fins, senhores, é não fazer nada, absolutamente nada.”
-
 “For a hundred versts around there was perhaps not a single person, beginning with himself, who bore even the remotest resemblance to a future member of ‘mankind’s universal social republic and harmony’.”
 
 “how this shame and degradation can exist in you side by side with other, opposite, holy feelings? It would be better, a thousand times better and wiser to leap into the water and end it all!”
 
-“Nada hay en el mundo más difícil de mantener que la franqueza ni nada más cómodo que la adulación.”
-
 “So he tortured himself, fretting himself with such questions, and finding a kind of enjoyment in it.”
-
-“Je te dois un aveu. Je n’ai jamais pu comprendre comment on peut aimer son prochain. C’est précisément, à mon avis, le prochain qu’on ne peut aimer .. Les êtres éloignés, le lointain, soit ; mais le prochain !... On ne peut aimer qu’un homme caché, invisible. Dès qu’il montre son visage, l’amour disparaît.”
-
-“Em casa, lia a maior parte do tempo; tentava assim extinguir sob impressões exteriores o que fervilhava constantemente em mim. As únicas expressões exteriores de que dispunha vinham-me da leitura. Elas eram pra mim um grande conforto, naturalmente: comoviam-me, distraíam-me, atormentavam-me; porém um momento chegava em que eu ficava muito fatigado. Sentia necessidade de agir: então, de repente, mergulhava na libertinagem, em uma sórdida libertinagenzinha hipócrita, subterrânea. Minha irritação contínua tornava minhas paixões ardentes, lancinantes. Meus impulsos apaixonados terminavam em crises de nervos, com lágrimas e convulsões. Fora da leitura eu não tinha nenhuma distração. Nada em torno de mim que pudesse me impor um certo respeito e me atrair para si. Uma angústia vaga me submergia; eu experimentava uma sede histérica de contrastes, de oposições, e então me lançava na devassidão.”
-
-“en vérité il est très agréable de se réunir, de s’asseoir et de bavarder des intérêts publics. Parfois même je suis prêt à chanter de joie, quand je rentre dans la société et vois des hommes solides, sérieux, très bien élevés, qui se sont réunis, parlent de quelque chose sans rien perdre de leur dignité. De quoi parlent-ils ? ça c’est une autre question. J’oublie même, parfois, de pénétrer le sens de la conversation, me contentant du tableau seul.<br>Mais jusqu’ici, je n’ai jamais pu pénétrer le sens de ce dont s’entretiennent chez nous les gens du monde qui n’appartiennent pas à un certain groupe. Dieu sait ce que c’est. Sans doute quelque chose de charmant, puisque ce sont des gens charmants. Mais tout cela paraît incompréhensible. On dirait toujours que la conversation vient de commencer ; comme si l’on accordait les instruments. On reste assis pendant deux heures et, tout ce temps, on ne fait que commencer la conversation. Parfois tous ont l’air de parler de choses sérieuses, de choses qui provoquent la réflexion. Mais ensuite, quand vous vous demandez de quoi ils ont parlé, vous êtes incapable de le dire : de gants, d’agriculture, ou de la constance de l’amour féminin ? De sorte que, parfois, je l’avoue, l’ennui me gagne. On a l’impression de rentrer par une nuit sombre à la maison en regardant tristement de côté et d’entendre soudain de la musique. C’est un bal, un vrai bal. Dans les fenêtres brillamment éclairées passent des ombres ; on entend des murmures de voix, des glissements de pas ; sur le perron se tiennent des agents. Vous passez devant, distrait, ému ; le désir de quelque chose s’est éveillé en vous. Il vous semble avoir entendu le battement de la vie, et, cependant, vous n’emportez avec vous que son pâle motif, l’idée, l’ombre, presque rien. Et l’on passe comme si l’on n’avait pas confiance. On entend autre chose. On entend, à travers les motifs incolores de notre vie courante, un autre motif, pénétrant et triste, comme dans le bal des Capulet de Berlioz. L’angoisse et le doute rongent votre coeur, comme cette angoisse qui est au fond du motif lent de la triste chanson russe :<br><br>Écoutez... d’autres sons résonnent.<br>Tristesse et orgie désespérées...<br>Est-ce un brigand qui a entonné, là-bas, la chanson ?
-
-“آدم چه چیزها که نمی‌بیند. وقتی به خشم آمده‌ای دست به دشنه می‌بری یا اگر دشنه نداشتی با دست خالی با حریف گلاویز می‌شوی، مثل یک قوچ، به دیوار شاخ می‌زنی. می‌خواهی خرخره طرف را با دندان بجوی. اما حالا اگر حریف خودش خنجر به دستت بدهد و سینه‌اش را برایت لخت کند، دست از پا خطا نمی‌کنی.”
-
-“E direi, in me c'è tanta di questa forza, ormai, che io prevarrò su ogni cosa, su tutte le sofferenze, non per altro che per dire a me stesso di continuo: io esisto; mi dibatto nella tortura, ma esisto! Sto legato al pilastro ma esisto pur sempre, vedo il sole, e se il sole non lo vedo, so che c'è. E saper che c'è il sole, è già tutta la vita.”
 
 “Oh, my friend, marriage is the moral death of every proud soul, of all independence.”
 
 “He had said,”Mother, my little heart, in truth we are each responsible to all for all, it’s only that men don’t know this. If they knew it, the world would be a paradise at once.”
 
 “And Liza, as soon as Alyosha was gone, unlocked the door at once, opened it a little, put her finger into the chink, and, slamming the door, crushed it with all her might. Ten seconds later, having released her hand, she went quietly and slowly to her chair, sat straight up in it, and began looking intently at her blackened finger and the blood oozing from under the nail. Her lips trembled, and she whispered very quickly to herself: “Mean, mean, mean, mean!.”
-
-“Medeniyetin insanda duygu çeşitlerini artırmaktan başka işe yaradığı yok.”
 
 “As soon as anyone is near me, his personality disturbs my self-complacency and restricts my freedom. In twenty-four hours I begin to hate the best of men: one because he’s too long over his dinner; another because he has a cold and keeps on blowing his nose.”
 
@@ -4389,21 +4142,9 @@
 
 “my elder told me once to care for most people exactly as one would for children, and for some of them as one would for the sick in hospitals.”
 
-“„Ugarak se već odavno gasio u nakrivljenom svijećnjaku, mutno osvjetljujući u toj prosjačkoj sobi ubojicu i bludnicu, što se na čudan način sastadoše za čitanja vječne knjige.”
-
-“Pero eso es vergonzoso, humillante -me dirán ustedes, quizá, moviendo la cabeza con desprecio- Usted tiene sed de vida, pero quiere resolver las cuestiones vitales por medio de absurdas lógicas. ¡Cuánta ostentación, cuánta impudicia hay en todo eso! Pero, a pesar de todo, usted tiene miedo. Dice estupideces sin la menor preocupación, y las mayores insolencias, pero, en el fondo, se siente atemorizado y pide perdón. Declara que no teme a nadie, pero busca nuestra benevolencia. Nos asegura que rechina los dientes, pero, al mismo tiempo, bromea y trata de hacernos reír. Sabe que pretende ser ingenioso y que no lo es, pero se muestra muy satisfecho de su literatura. Es posible que usted haya sufrido, pero no siente respeto alguno por su sufrimiento. Hay algo de verdad en sus palabras, pero carecen de pudor. Empujado por la vanidad más mezquina, saca su verdad a la calle, la expone en el mercado, la exhibe en la picota de las burlas. Tiene algo que decir, pero el temor le lleva a escamotear la última palabra, porque es usted insolente pero no audaz. Se jacta de su capacidad mental, pero, en su pensamiento, todo son vacilaciones, porque, aunque su inteligencia está en actividad, su corazón está manchado por el libertinaje, y si el corazón no es puro, la conciencia no puede ser completa ni clarividente. ¡Y qué importuno es usted, qué molesto! ¡Qué modo de hacer el bufón! ¡No dice más que mentiras! ¡Mentiras! ¡Mentiras!”
-
-“viaţa e un rai în care toţi ne desfătăm, numai că noi nu vrem să ne dăm seama de asta, căci dacă am vrea, chiar mîine tot pâmîntul ar fi un rai.”
-
 “What made them necessarily imagine that what man needs is necessarily a reasonably profitable wanting? Man needs only independent wanting, whatever this independence may cost and wherever it may lead. Well, and this wanting, the devil knows...”
 
-“Am întrebat pe foarte mulţi ce simt.Aş fi vrut să ştiu mai exact cât de mare le este durerea şi cu ce altă suferinţă s-ar putea asemui? N-aş putea spune pentru ce anume vroiam neapărat să aflu acest lucru.Ştiu numai că nu întrebam din simplă curiozitate.”
-
-“Acum scriu din postura unuia care și-a venit în fire și care, în mare, s-a distanțat de toate. Dar cum să-mi prezint tristețea(pe care mi-o amintesc acum foarte viu) care mi s-a așezat atunci pe suflet, mai ales emoția mea din acea vreme, care atinsese cote atât de înalte și de fierbinți, încât nici măcar nu puteam să dorm noaptea-din cauza nerăbdării, a tainelor pe care singur le întrețineam?”
-
 “In her opinion, all that had happened was ‘unforgivable and even criminal nonsense, a fantastic tableau, stupid and preposterous!’ First of all there was the fact that ‘this wretched little prince was a sickly idiot, secondly, a fool with no knowledge of society and no place in it: to whom could one show him off, even were one to get him in? He was some kind of impossible democrat, didn’t even have a civil service rank, and… and… what would Belokonskaya say? And was this, was this the kind of husband we imagined and intended for Aglaya?”
-
-“Man is stupid, you know, phenomenally stupid; or rather he is not at all stupid, but he is so ungrateful that you could not find another like him in all creation.”
 
 “Well, this time I'll be honest with you and let you in on it. Listen, in dreams and particularly in nightmares, caused perhaps by indigestion or whatever, a man may think up such artistic creations, such complex and realistic visions, events or even a whole world of events woven into a plot of such astounding details that even Leo Tolstoi himself could not invent them. And yet people who have such dreams don't have to be novelists but can be the most ordinary civil servants, newspapermen, priests, or anything . . . It creates, in fact, a most interesting problem: once, for instance, I heard a member of the government say that his best ideas came to him when he was asleep.”
 
@@ -4411,29 +4152,15 @@
 
 “And what did I see? I saw people who are elegant, open-hearted, intelligent; I saw an elder statesman who was kind and attentive to a boy like me; I saw people who are capable of understanding and forgiving, good-natured Russian people, almost as good-natured and warm-hearted as those whom I met back there, almost as good as them. So you may imagine how happily I was surprised! Oh, permit me to say this! I had heard a great deal and was very much of the conviction that in society all is style, all is decrepit formality, while the essence has dried up; but I mean, now I can see for myself that it cannot be so in our country; it may be like that in other countries, but not in ours.”
 
-“O amor é um mistério divino, que deve permanecer escondido aos olhos de todos, aconteça o que acontecer.”
-
-“Yo incluso creo que es la mejor definición que se puede dar del hombre: «ser bípedo e ingrato».”
-
-“„Am întâlnit omul care se agită fără rost. Și omul acesta poate fi de diferite feluri: și mare, și mic, și prost, și învățat, și chiar din popor-și peste toți: zădărnicie. Nu au frumusețe și nici nu vor să aibă; toți merg spre moarte și fiecare își laudă propria moarte, dar să privească spre unicul adevăr-la asta nu se gândește; iar a trăi fără Dumnezeu este doar un chin.”
-
-“No, Rodion Romanovitch, Nikolay doesn't come in! This is a fantastic, gloomy business, a modern case, an incident of to-day when the heart of man is troubled, when the phrase is quoted that blood 'renews,' when comfort is preached as the aim of life. Here we have bookish dreams, a heart unhinged by theories. Here we see resolution in the first stage, but resolution of a special kind: he resolved to do it like jumping over a precipice or from a bell tower and his legs shook as he went to the crime. He forgot to shut the door after him, and murdered two people for a theory. He committed the murder and couldn't take the money, and what he did manage to snatch up he hid under a stone. It wasn't enough for him to suffer agony behind the door while they battered at the door and rung the bell, no, he had to go to the empty lodging, half delirious, to recall the bell-ringing,”
-
 “What exquisite, or rather, what bovine crudity there is in their egoism, an egoism they simply cannot manage to perceive in themselves!”
 
 “The herd will be gathered together and tamed again, however, and this time for good. And then we shall give them tranquil, humble happiness, suitable for such weak creatures.”
 
 “Above all, avoid falsehood, every kind of falsehood, especially falseness to yourself. Watch over your own deceitfulness and look into it every hour, every minute. Avoid being scornful, both to others and to yourself. What seems to you bad within you will grow purer from the very fact of your observing it in yourself. Avoid fear, too, though fear is only the consequence of every sort of falsehood. Never be frightened at your own faint-heartedness in attaining love. Don’t be frightened overmuch even at your evil actions. I am sorry I can say nothing more consoling to you, for love in action is a harsh and dreadful thing compared with love in dreams. Love in dreams is greedy for immediate action, rapidly performed and in the sight of all. Men will even give their lives if only the ordeal does not last long but is soon over, with all looking on and applauding as though on the stage.”
 
-“Dacă ar şti că sunt fericiţi, ar fi fericiţi.”
-
 “for the idea was by no means so stupid as it seems now<br>that it has failed.... (Everything seems stupid when it fails.)”
 
-“La ce bun să mai numărăm zilele, cînd e de ajuns una singură pentru ca omul să cunoască pe deplin fericirea!”
-
 “But all these are golden dreams.”
-
-“Nos empeñamos en ser un tipo de hombre corriente que nunca ha existido. Hemos nacido muertos, y hace mucho tiempo que nacemos de padres que ya no viven, y eso nos agrada cada vez más. Le tomamos el gusto. Dentro de poco querremos nacer de una idea.”
 
 “I love the sun, especially the setting March sun in St Petersburg on a clear frosty evening. The whole street is suddenly bathed in brilliant light. All the houses glow. For a time, the grey, yellow and dull green facades lose their drabness; there's a sense of euphoria, of awakening, as though someone had poked you in the ribs. A new vista, new ideas... marvellous what a single ray of sunshine can do to a man's soul!”
 
@@ -4443,17 +4170,11 @@
 
 “Why, the whole point, the real sting of it lay in the fact that continually, even in the moment of the acutest spleen, I was inwardly conscious with shame that I was not only not a spiteful but not even an embittered man, that I was simply scaring sparrows at random”
 
-“Arzularımızın çıkarımıza tamamıyla ters düşmesi mümkün, hatta bazen zorunludur.”
-
 “...sacred memory, preserved from childhood, is perhaps the best education. If a man stores up many such memories to take into life, then he is saved for his whole life.”
 
 “Zamyotov.” “Zamyotov?… The clerk?… What for?” Raskolnikov quickly turned and fixed his eyes on Razumikhin. “But what’s wrong with … Why be so worried? He wanted to make your acquaintance; he wanted it himself, because I talked about you a lot with him … Otherwise, who would have told me so much about you? He’s a nice fellow, brother, quite a wonderful one … in his own way, naturally. We’re friends now; we see each other almost every day. Because I’ve moved into this neighborhood. You didn’t know yet? I’ve just moved. We’ve called on Laviza twice. Remember Laviza, Laviza Ivanovna?” “Was I raving about something?” “Sure enough! You were out of your mind, sir.” “What did I rave about?” “Come now! What did he rave about? You know what people rave about … Well, brother, let’s not waste any more time. To business!” He got up from his chair and grabbed his cap. “What did I rave about?” “You just won’t let go! Afraid about some secret, are you? Don’t worry, you didn’t say anything about the countess. But about some bulldog, and about”
 
-“Мало того: если идея соединяется с сильным, страстным желанием, то, пожалуй, иной раз примешь её, наконец, за нечто фатальное, необходимое, предназначенное, за нечто такое, что уже не может не быть и не случиться!”
-
 “He thirsted for that reformation and renewal. The filthy morass, in which he had sunk of his own free will, was too revolting to him, and, like very many men in such cases, he put faith above all in change of place. If only it were not for these people, if only it were not for these circumstances, if only he could fly away from this accursed place-he would be altogether regenerated, would enter on a new path. That was what he believed in, and what he was yearning for.”
-
-“Le voy a poner un ejemplo. Hasta ahora se nos ha dicho: "Ama a tu projimo." Pues bien, si pongo este precepto en práctica, que resultará?. Pues resultará que dividiré mi capa en dos mitades, daré una mitad a mi prójimo y los dos nos quedaremos medio desnudos.”
 
 “in the monastery he fully believed in miracles, but, to my thinking, miracles are never a stumbling-block to the realist. It is not miracles that dispose realists to belief. The genuine realist, if he is an unbeliever, will always find strength and ability to disbelieve in the miraculous, and if he is confronted with a miracle as an irrefutable fact he would rather disbelieve his own senses than admit the fact. Even if he admits it, he admits it as a fact of nature till then unrecognized by him. Faith does not, in the realist, spring from the miracle but the miracle from faith. If the realist once believes, then he is bound by his very realism to admit the miraculous also.”
 
@@ -4469,41 +4190,17 @@
 
 “Man cannot commit a sin so great as to exhaust the infinite love of God. Can there be a sin which could exceed the love of God? Think only of repentance, continual repentance, but dismiss fear altogether. Believe that God loves you as you cannot conceive; that He loves you with your sin, in your sin. It has been said of old that over one repentant sinner there is more joy in heaven than over ten righteous men. Go, and fear not. Be not bitter against men. Be not angry if you are wronged. Forgive the dead man in your heart what wrong he did you. Be reconciled with him in truth. If you are penitent, you love. And if you love you are of God. All things are atoned for, all things are saved by love. If I, a sinner, even as you are, am tender with you and have pity on you, how much more will God. Love is such a priceless treasure that you can redeem the whole world by it, and expiate not only your own sins but the sins of others.”
 
-“Αυτό μονάχα παραδεχόταν σαν έγκλημά του: το ότι δεν τ' άντεξε και πήγε κι ομολόγησε μόνος του.”
-
 “Where is it I’ve read that someone condemned to death says or thinks, an hour before his death, that if he had to live on some high rock, on such a narrow ledge that he’d only room to stand, and the ocean, everlasting darkness, everlasting solitude, everlasting tempest around him, if he had to remain standing on a square yard of space all his life, a thousand years, eternity, it were better to live so than to die at once! Only to live, to live and live! Life, whatever it may be!… How true it is! Good God, how true! Man is a vile creature!… And vile is he who calls him vile for that,” he added a moment later.”
-
-“Ama, širok je čovjek, čak i preširok, ja bih ga suzio.”
 
 “Connoisseurs of Russian beauty could have foretold with certainty that this fresh, still youthful beauty would lose its harmony by the age of thirty, would “spread”; that the face would become puffy, and that wrinkles would very soon appear upon her forehead and round the eyes; the complexion would grow coarse and red perhaps—in fact, that it was the beauty of the moment, the fleeting beauty which is so often met with in Russian women.”
 
-“Mantık, kuşkusuz iyi şeydir, ama olup olacağı bir mantıktır ve insanın düşünme gereksinmesini gidermekten öteye geçemez; oysa istek yaşamın ta kendisidir, hem de en basit davranıştan yüce mantığa kadar. Gerçi isteğin eline kalmış bir yaşam çoğu zaman deli zırvasından başka bir şey değildir, ama unutmayalım, gene de yaşamdır, kare kökü almak değil.”
-
-“لقد كنت أعلم، حتى في ذلك الحين، أنني أحب أمك متى انفصلت عنها، فإذا اجتمعنا من جديد، فتر حبي وبرد”
-
-“اصبحت فجأة لا أغضب من الناس، بل ما عدت الاحظ وجودهم.”
-
 “Avdotya Romanovna's beauty and education had impressed him; her helpless situation had excited him beyond all measure. Here there was even more than he had dreamed of: the girl who had appeared was proud, full of character, virtuous, superior to him in education and upbringing (he sensed this), and yet this creature would view him with servile gratitude all her life for his noble deed, reverentially effacing herself before him, and he would have unlimited and exclusive power over her!”
-
-“Ellerinden geldiğince erdemli, ağırbaşlı davranmayı kendilerine amaç edinen, sanki dünyada erdemli, ağırbaşlı yaşanabileceğini göstermek istercesine çevrelerine ışık saçan bir takım erdemli, ağırbaşlı kişiler -insanseverler, bilgeler- vardır. 'E, sonra?' diyeceksiniz. Sonrası belli: Bu gösteriş düşkünlerinin çoğu, eninde sonunda sapıtarak akla gelmedik herzeler yerler.”
 
 “And the truth is not in gudgeons, I’ve already declared as much! Father monks, why do you fast? Why do you expect a heavenly reward for that? For such a reward, I’ll go and start fasting, too! No, holy monk, try being virtuous in life, be useful to society without shutting yourself up in a monastery on other people’s bread, and without expecting any reward up there—that’s a little more difficult. I, too, can talk sensibly, Father Superior. What have we got here?” He went up to the table. “Old port wine from Factori’s, Médoc bottled by Eliseyev Brothers!8 A far cry from gudgeons, eh, fathers ? Look at all these bottles the fathers have set out—heh, heh, heh! And who has provided it all? The Russian peasant, the laborer, bringing you the pittance earned by his callused hands, taking it from his family, from the needs of the state! You, holy fathers, are sucking the people’s blood!”
 
-“Может быть, перейдя чрез столько ощущений, душа не насыщается, а только раздражается ими и требует ощущений еще, и все сильней и сильней, до окончательного утомления.”
-
 “the people of that time (I swear to you, this has always struck me) were apparently not at all like we are today, it was a different race from that of our own era,3 truly, almost a different breed… In those days people were carried by a single idea, whereas now they’re more nervous, more developed, more sensitive, as if they were carried along by two or three ideas at the same time… the man of today is broader – and, let me tell you, that’s what prevents him from being the unified individual he was in those times…”
 
-“أأنا أحبها؟ ومرة أخرى لم أستطع أن أجد لهذا السؤال جواباً، أو قل إنني أجبت للمرة المائة بأنني أكرهها ، نعم أكرهها. <br>مرت بي لحظات وخاصة في ختام الأحاديث التي تقوم بيننا. تمنيت فيها أن أهب نصف عمري في سبيل أن أخنقها أقسم أنه لو في وسعي أن أغمد خنجراً مسنوناً في صدرها على مهل، لشعرت من ذلك بمتعة فيما أظن. ومع ذلك أقسم بأقدس ما أقدّس أنني لو طلبت مني ونحن على جبل شلانجنبرج، أن ألقي بنفسي من أعلى قمة يرتادها الناس، لرميت نفسي فوراً ولشعرت من ذلك بغبطة.<br>دوستويفسكي / المقامر”
-
-“No es posible imaginar siquiera toda la deshonra y la decadencia moral con la que es capaz de transigir el celoso sin el menor remordimiento de conciencia. Y no es que sean almas vulgares y sucias. Al contrario, es posible ocultarse bajo las mesas, sobornar a gente infame y acostumbrarse a la inmundicia más ruin del acecho y el fisgoneo teniendo un gran corazón, sintiendo un amor puro, lleno de abnegación.”
-
 “God bless you! Well, go, love Ivan!” was the last word that burst from Mitya.”
-
-“İnsanın bütün işi gücü, sanırım vida değil insan olduğunu her an kendi kendisine kanıtlamaktır.”
-
-“Вы смеетесь... Вы думаете: я за _тех_ боялся, _их_ адвокат, демократ, равенства оратор? — засмеялся он истерически (он поминутно смеялся коротким и восторженным смехом). — Я боюсь за вас, за вас всех и за всех нас вместе. Я ведь сам князь исконный и с князьями сижу.”
-
-“Sakın insanoğlu hedefe ulaşmaktan, kurmakta olduğu yapıyı bitirmekten içgüdüsel bir ürküntü duyduğu için yıkmayı, bozup dağıtmayı seviyor olmasın?”
 
 “The poor little thing, she'd saved this student's letter as a treasure and had run to fetch this precious treasure of hers, not wanting me to leave without knowing that she too was the object of sincere, honest love, and that someone exists who had spoken to her respectfully. Probably that letter was fated to lie in her box without results. But that didn't matter; I'm sure that she'll guard it as a treasure her whole life, as her pride and vindication; and now, at a moment like this, she remembered it and brought it out to exult naively before me, to raise her self in my eyes, so that I could see it for myself and could also think well of her."<br>― Fyodor Dostoyevsky, Notes from Underground”
 
@@ -4519,69 +4216,35 @@
 
 “Yes, yes! When you’ve come more often, you’ll see what sort of being she is. It’s very good for you to get to know such beings, in order to learn to value many other things besides, which you will learn precisely from knowing these beings,”
 
-“Kendini bilen, akıllı-uslu bir adam, kendine karşı son derece titiz değilse ve kendisini nefret edercesine küçümsemiyorsa gururlu da değildir.”
-
 “but a real punishment, the only real, the only frightening and appeasing punishment, which lies in the acknowledgement of one’s own conscience.”
 
-“Я не умею молчать, когда сердце во мне говорит.”
-
-“Pero si todo va bien en la familia, si Dios la ha bendecido, si el esposo es bueno y se preocupa por la mujer en vez de abandonarla..., ¡qué bien se está con la familia! Incluso si en la casa entra el infortunio. Por lo demás, ¿acaso no entra el infortunio en cualquier parte? Si algún día te casas, quizá lo sepas por experiencia. Por el contrario, en los primeros tiempos de la vida conyugal con el ser amado, ¡cuánta felicidad! ¡Una felicidad constante! Incluso las querellas terminan bien entre esposos en esta primera etapa. Hay mujeres que cuanto más quieren a su marido, más disputas con él provocan. Puedo asegurarlo, porque conocí a una de esta clase. «¡Te quiero tanto, que te hago sufrir, a fin de que te des cuenta!» ¿Sabías esto? Puede suceder que se atormente a una persona por exceso de cariño. Las mujeres obran así con sus maridos. Se dicen: «Te amo y te acaricio tanto, que tengo derecho a atormentarte un poco». Y todos los que viven alrededor del matrimonio comparten su alegría. En el hogar, todo es honesto, apacible y alegre. Hay mujeres celosas. Si él sale (yo conocía a una que procedía así), ella no lo puede soportar. Se levanta a medianoche de la cama y va a ver si está en talo cual sitio, con esta o aquella mujer. Esto no está bien, y ella lo sabe. Sufre, se juzga y se condena. ¡Pero ha de obrar así porque lo ama! Y, después de la riña, la delicia de reconciliarse. Pedirle perdón o, por el contrario, perdonarle. ¡Qué hermoso es esto para los dos! ¡Como si acabasen de conocerse, como si acabasen de casarse y su amor estuviera en su principio!... Nadie, absolutamente nadie debe saber lo que ocurre entre los esposos si se quieren de verdad. Éstos, en sus disputas, sean de la índole que fueren, no deben recurrir al juicio de nadie, ni siquiera de la propia madre, ni contar a nadie lo ocurrido. Ellos mismos han de ser sus propios jueces. El amor es un misterio divino que debe permanecer oculto a los ojos ajenos, pase lo que pase. Esto es lo mejor, lo más conveniente. Así se consolida la estimación entre los esposos, y sobre la estimación se edifican muchas cosas. Si marido y mujer se quieren, si se han casado por amor, no es preciso que este amor muera.”
-
 “What do you think?" shouted Razumihin, louder than ever, "you think I am attacking them for talking nonsense? Not a bit! I like them to talk nonsense. That's man's one privilege over all creation. Through error you come to the truth!”
-
-“يُخيّل إليّ أنني أزدوج فأصبح اثنين. وهذا ما أخشاه كثيرا. لكأنّ لي مِثْلا يقف إلى جانبي. فأنا رجل عاقل معتدل، ولكن الآخر الذي بجانبي يصر على أن يقوم بعمل سخيف أو عمل مسل جدا في بعض الأحيان، ثم إذا بي أشعر فجأة أنني أنا الذي أريد أن أقوم بهذا العمل المسلي، لا يدري إلا الله لماذا! أريد أن أقوم به رغم أنفي، وأريد أن أقوم به وأنا أعارضه بكل ما أملك من قوة”
-
-“Yah, aku tidak memiliki gaya, memang, aku sendiri tahu aku tidak memiliki gaya, sialan; itulah justru sebabnya aku tidak sukses dalam pekerjaanku, dan inilah aku bahkan menulis surat padamu, sayangku, sebagaimana adanya, tanpa hiasan-hiasan dan menuruti apa yang terbetik dalam hatiku .... Aku tahu semua ini; tetapi jika semua orang mulai mengarang, maka siapa yang akan menyalin? Itulah pertanyaan yang aku ajukan, dan aku minta kamu menjawabnya sayangku.”
-
-“Todo un momento de felicidad! Sí, no es eso bastante para colmar una vida?”
 
 “Send me the article beforehand, don't forget, and try and let it be free from nonsense. Facts, facts, facts. And above all, let it be short. Good-bye.”
 
 “I think I could stand anything, any suffering, only to be able to say and to repeat to myself every moment, ‘I exist.’ In thousands of agonies— I exist. I’m tormented on the rack— but I exist! Though I sit in a pillar— I I exist! I see the sun, and if I don’t see the sun, I know it’s there. And there’s a whole life in that, in knowing that the sun is there”
 
-“Gândul oricui, fie el unul de nimic, e mai adânc când e păstrat înăuntru, iar atunci când îl spui în cuvinte poate deveni comic și lipsit de noblețe.”
-
 “You're not simply getting old, you're getting decrepit.... You”
 
 “Above all, avoid falsehood, every kind of falsehood, especially falseness to yourself. Watch over your own deceitfulness and look into it every hour, every minute. Avoid being scornful, both to others and to yourself. What seems to you bad within you will grow purer from the very fact of your observing it in yourself. Avoid fear, too, though fear is only the consequence of every sort of falsehood. Never be frightened at your own faint-heartedness in attaining love. Don't be frightened overmuch even at your evil actions.”
 
-“من المؤسف أن الشباب الذين من هذا النوع لا يدركون أن التضحية بالحياة قد تكون بين جميع أنواع التضحيات أقلها صعوبة في كثير من الأحوال”
-
 “We must name the eminent and fascinating Prince N. - once the vanquisher of female hearts all over Europe.”
-
-“Lepiej być nieszczęśliwym i wiedzieć, niż być szczęśliwym i żyć w nieświadomości.”
 
 “I like them to talk nonsense...”
 
 “Once a man has lost his self-respect, and has decided to abjure his better qualities and human dignity, he falls headlong, and cannot choose but do so. It is decreed of fate, and therefore I am not guilty in this respect.”
 
-“وفي وسعه، عاجلا أو آجلا، أن ينهض فجأة، فيضع نيته موضع التنفيذ بقوة جبارة لا سبيل إلى السيطرة عليها، كما يحدث ذلك للطباع الضعيفة في أحيان كثيرة، لأن ثمة حدودا لا يجوز أن ندفعهم إليها”
-
 “Be not comforted. Consolation is not what you need. Weep and be not consoled, but weep.”
-
-“¡A mi me gusta que mientan! Mentir es el único privilegio del hombre frente a las instituciones. ¡Quien miente llega a la verdad! Por eso soy hombre, porque miento. No se ha llegado a ninguna verdad sin haber mentido antes unas catorce veces, y quién sabe si ciento catorce, y eso es honroso a su modo. ¡Pero nosotros ni siquiera sabemos mentir por inspiración propia! Miente todo lo que quieras, pero miente por ti mismo, y entonces te cubriré de besos. Mentir según dicta el ingenio propio es casi mejor que decir la verdad de otro. En el primer caso, se es persona; ¡en el segundo, un loro! La verdad no se pierde; en cambio es posible machacar una vida; ha habido ejemplos. Y todos nosotros, ¿qué somos ahora? En lo que toca a la ciencia , al desarrollo, al pensar, a los inventos, a los ideales, a los deseos, al liberalismo, a la razón, a la experiencia y a todo, todo, todo, todo, todo, nos encontramos aún en la primera clase de párvulos. ¡Nos gusta nutrirnos de inteligencia ajena y nos hemos dado un atracón! ¿No es cierto? ¿No es como digo?”
-
-“soy susceptible de caer en una tentación, de enamorarme, pues esto no depende de nuestra voluntad.”
 
 “Beautiful and sublime.”
 
-“Así como cien conejos no hacen un caballo, cien presunciones no constituyen una prueba”,”
-
 “To transform the world, to recreate it afresh, men must turn into another path psychologically. Until you have become really, in actual fact, a brother to every one, brotherhood will not come to pass.”
-
-“Tsk, tsk, tsk, if he weren’t in love with you like a sheep, he wouldn’t be running around the streets like a madman and wouldn’t be stirring up all the dogs in town. He broke my window frame.”
 
 “The depreciation of the rouble keeps me awake at night, Dmitri Fyodorovitch; people don't know that side of me”
 
 “... gloom never forsakes the English...”
 
-“Nie jestem tchórzem. Tchórzem jest ten kto się boi i ucieka a ja się boję, ale nie uciekam.”
-
-“Petersburg, the most theoretical and intentional town on the whole terrestrial globe.”
-
 “It must be added that, in a way, he was indeed a member of our younger generation, which means that he was honest, that he believed in, demanded, and searched for truth; that, because he believed in it, he yearned for to serve it and give his whole strength he was spoiling for immediate action, was prepared to sacrifice everything, his life itself, in an act of supreme devotion. Unfortunately, these young men often fail to understand that the sacrifice of their lives may be the easiest of all sacrifices, much easier, for instance, than giving up five or six years of their seething youth to hard study, to the acquisition of knowledge which would increase their strength tenfold in the service of the same cause, and in the performance of the great works they aspire to. But to sacrifice those few years to study often proves too much for them.”
-
-“- A necessidade de comer e beber é simplesmente o instinto de autoconservação!<br>- Mas não acha que esse instinto de autopreservação por si só é importante? Ora, o instinto de autoconservação é a lei normal da humanidade!<br>- Quem lhe disse isso? Que é uma lei, não há dúvida. Mas não é mais normal do que a lei de destruição, ou mesmo a de autodestruição. Acha que a autoconservação seja a única lei da espécie humana?”
 
 “[Alyosha] was to some extent a youth of our last epoch — that is, honest in nature, desiring the truth, seeking for it and believing in it, and seeking to serve it at once with all the strength of his soul, seeking for immediate action, and ready to sacrifice everything, life itself, for it. Though these young men unhappily fail to understand that the sacrifice of life is, in many cases, the easiest of all sacrifices, and that to sacrifice, for instance, five or six years of their seething youth to hard and tedious study, if only to multiply tenfold their powers of serving the truth and the cause they have set before them as their goal, such a sacrifice is utterly beyond the strength of many of them.”
 
@@ -4619,17 +4282,11 @@
 
 “When he heard about the bench, his heart began to beat horribly. A moment later he pulled himself together and, with shame, drove away the absurd thought.”
 
-“Bana bunların imkansız olduğunu, bu derece kötü, bu derece aptal olamayacağımı söyleyecekler, biliyorum; hatta Liza'yı sevmememin, hiç olmazsa aşkını takdir etmememin mümkün olmadığını da ilave edeceklerdir muhtemelen. Halbuki neden imkansız olsun? İlkin sevmek elimden gelmezdi, çünkü bence sevmek, manevi üstünlük kurmak, zorbalık etmek anlamına gelir. Ömrüm boyunca başka türlü düşünmedim; hatta şimdi bile bazen sevginin sevdiğimizin bize gönül rızasıyla bağışladığı, kendine zorbalık etme hakkından ibaret olduğunu düşünüyorum. Yeraltı hayallerimde bile aşkı nefretle başlayan ve manevi zaferimle biten bir mücadeleden başka şekilde kuramıyordum, ama dize getirdiğim varlığı ne yapacağımı hiç bilemedim. Kadını canlandıran, onu uçurumun dibine kadar yuvarlanmaktan koruyarak yeniden doğmasını sağlayan biricik kuvvetin aşk olduğunu biliyorum, ama manevi varlığım o derece bozulmuştu ve "canlı hayattan" o kadar uzaklaşmıştım ki, demin bana "dokunaklı sözler" dinlemeye geldiğini sanıp kızı rezil etmeye kalkmamın da, dokunaklı sözler dinlemeye değil, bana olan sevgisi yüzünden geldiğini anlayamamamın da garipsenecek yanı yok bence.”
-
-“- إنني امرأة عادية جدا. إنني امرأة هادئة.. أحب.. أحب الناس المرحين<br><br>- المرحين؟<br><br>- ها أنت ذا ترى أنني عاجزة حتى عن التحدث معك. يخيل إليّ أنك لو أحببتني حبا أقل، لأحببتك”
-
 “You can't rebel: it's two times two is four! Nature doesn't ask your permission; it doesn't care about your wishes, or whether you like its laws or not. You're obliged to accept it as it is, and consequently all its results as well. And so a wall is indeed a wall . . . etc., etc.”
 
 “Even if it cannot be resolved in a positive way, it will never be resolved in the negative way either – you yourself know this property of your heart, and therein lies the whole of its torment. But thank the Creator that he has given you a lofty heart, capable of being tormented by such a torment.”
 
 “- Cand omul, in integritatea lui, va atinge fericirea, timpul va inceta sa mai existe, pentru ca nu va mai fi nevoie de el. O idee foarte justa.<br>- Si ce se va intampla cu timpul? Unde il vor ascunde?<br>- Nu-l vor ascunde nicaieri. Timpul nu este un obiect sau lucru, ci un concept. Se va stinge in intelect.”
-
-“Por mal que estés al lado de tu familia, de tu padre y tu madre no serán nunca para ti enemigos, extraños. Te demostrarán su cariño por lo menos una vez al año. Ocurra lo que ocurra, sabes que estás en tu casa.”
 
 “As soon as any one is near me, his personality disturbs my self-complacency and restricts my freedom.”
 
@@ -4641,37 +4298,21 @@
 
 “Do you understand that the Luzhin smartness is just the same thing as Sonia's and may be worse, viler, baser, because in your case, Dounia, it 's a bargain for luxuries, after all, but with Sonia it's simply a question of starvation.”
 
-“А можда ви то сад говорите у бунилу – закључи генералица, па надменим гестом одбаци од себе фотографију на сто.<br>Александра је узе, њој приђе и Аделаида, па је обе стадоше разгледати. У тај мах се Аглаја опет врати у салон.<br>Каква је то сила! – викну наједаред Аделаида, пожудно се загледајући у слику преко сестриног рамена.<br>Гле? Каква сила – оштро је запита Лизавета Прокофјевна.<br>Па таква лепота је сила – ватрено рече Аделаида <br>- С ТАКВОМ ЛЕПОТОМ МОЖЕШ СВЕТ ПРЕОКРЕНУТИ.”
-
 “Hm… yes, all is in a man’s hands and he lets it all slip from cowardice, that’s an axiom.”
 
 “When he reached the Neva he stood still for a minute and turned a keen glance up the river into the smoky frozen thickness of the distance, which was suddenly flushed crimson with the last purple and blood -red glow of sunset, still smouldering on the misty horizon... . Night lay over the city, and the”
-
-“فأنا أعرف أن مجتمعنا تسوده الفوضى كما تسود ما عداه. ولكن المظاهر الخارجية تظل فيه أحلى، فإذا كان على المرء أن يعيش وكفى، فالمعيشة في المجتمع أمتع من المعيشة في غيره”
-
-“ترى ما هو الذي يستطيع أن يتحدث به الإنسان السوي و يحس بأعظم المتعة؟<br>الجواب: أن يتحدث عن نفسه.”
 
 “And indeed this idea is sometimes treated with derision, for how can a man shake off his habits? What can become of him if he is in such bondage to the habit of satisfying innumerable desires that he has created for himself?”
 
 “Faith does not, in the realist, spring from the miracle but the miracle from faith. If the realist once believes, then he is bound by his very realism to admit the miraculous also. The Apostle Thomas said that he would not believe till he saw, but when he did see he said, "My Lord and my God!" Was it the miracle forced him to believe? Most likely not, but he believed solely because he desired to believe and possibly he fully believed in his secret heart even when he said, "I do not believe till I see.”
 
-“había llegado a ese grado de sufrimiento que no se puede tolerar y en el que el corazón más altivo abdica de su orgullo y se declara vencido por el dolor. Aliocha”
-
 “This soldier had been taken prisoner in some remote part of Asia, and was threatened with an immediate agonising death if he did not renounce Christianity and follow Islam. He refused to deny his faith, and was tortured, flayed alive, and died, praising and glorifying Christ.”
 
 “It’s life that matters, nothing but life—the process of discovering, the everlasting and perpetual process, not the discovery itself, at all.”
 
-“Նրան թվում էր, որ այդ հինգ րոպեի ընթացքում նա կապրի այնքան կյանքեր, որ դեռևս հիմա իսկի էլ կարիք չկա մտածելու վերջին վայրկյանի մասին:”
-
 “I am scared of one thing in my life, to be unworthy of my sufferings.”
 
-“чем больше я люблю человечество вообще, тем меньше я люблю людей в частности, то есть порознь, как отдельных лиц.”
-
 “But why, if you<br>are so clever, do you lie here like a sack and have nothing to<br>show for it? One time you used to go out, you say, to teach<br>children. But why is it you do nothing now?”
-
-“There's no pain from stone, but the fear in front of the stone is pain.”
-
-“Nah, bagaimana keadaanmu, anak burungku yang lemah dan belum bisa terbang, bagaimana kamu akan mencari makan, menjaga agar tidak hancur, membela dirimu terhadap para penjahat? Ayolah, Varenka, sadarlah; jangan dengar nasihat-nasihat bodoh dan fitnahan-fitnahan, tetapi bacalah bukumu kembali; itu akan bermanfaat bagimu.”
 
 “Don't be afraid of life. How good life is when one does somethings good and just.”
 
@@ -4689,11 +4330,7 @@
 
 “There is among the people a silent, long-suffering grief; it withdraws into itself and is silent.”
 
-“Да бисмо могли заволети човека, потребно је да се он сакрије, а чим покаже своје лице -оде љубав.”
-
 “Never in her life had she seen such literary men. They were incredibly vain, but made no secret of it, as though they were so on principle. Some (though by no means all) turned up drunk, but they seemed to regard it as some new manifestation of grace they had discovered only the day before. They all appeared to be quite extraordinarily proud of something. On all faces was written that they had only just discovered some highly important secret.”
-
-“E intanto lo senti come attorno a te s'agita e turbina la folla umana in un vortice vitale, lo senti e lo vedi come vive la gente, che sta fuori dal sogno, lo vedi che la vita loro non si volatilizza come un sogno, una visione, che la loro vita si rinnova sempre, è sempre giovane, e non c'è un'ora che sia simile all'altra, laddove è così desolante e fino alla volgarità ossessivamente paurosa la fantasia, schiava dell'ombra, di un'idea, schiava della prima nuvola che all'improvviso vela il sole e stringe nell'angoscia un vero animo pietroburghese, chetanto ha a cuore il proprio sole, - e nell'angoscia altro che fantasia! La senti, finalmente, che nell'incessante tensione si sfianca, si esaurisce quest'inesauribile fantasia, perché, ecco, ti fai forte e cerchi di sopravvivere senza i tuoi vecchi ideali: che si schiantano, vanno in frantumi, in polvere; ma se non c'è un'altra vita, bisogna pur costruirsela con quegli stessi frantumi. E intanto l'anima chiede e vuole altro! Invano il sognatore fruga, come tra la cenere, in mezzo ai propri vecchi sogni, cercando in quella cenere anche una sola favilla su cui poter soffiare e riscaldare con fuoco rinnovellato il proprio cuore intirizzito e risuscitare in esso tutto ciò che un tempo era così dolce e commuoveva il cuore, ciò che faceva ribollire il sangue e strappava lacrime dagli occhi, e che tradiva con tanto scialo!”
 
 “What use to me are your nature, your Pavlovsk Park, your sunrises and sunsets, your blue sky and your all-satisfied faces, when the whole of this feast, which has no end, began by considering me alone superfluous? What is there for me in all this beauty, when at each minute, each second, I’m now compelled to be aware that even this tiny housefly buzzing around me in the sunbeam now, even it is a participant in all this feast and chorus, knows its place, loves it and is happy, while I alone am an outcast,”
 
@@ -4709,8 +4346,6 @@
 
 “The great writer was mortally afraid of the rising generation of young revolutionaries, and imagining, through his ignorance of things, that they held the keys to Russia’s future, sucked up to them shamelessly, mainly because they paid absolutely no attention to him.”
 
-“Un om deştept nu poate face nimic din propria sa persoană şi numai prostul poate. Da, un om deştept din veacul al nouăsprezecelea trebuie şi este obligat din punct de vedere moral să fie o fiinţă eminamente lipsită de caracter; iar un om de caracter, un militant trebuie să fie o fiinţă eminamente mărginită. Asta-i convingerea mea, la cei patruzeci de ani pe care-i am. Am acum patruzeci de ani şi când te gândeşti că patruzeci de ani înseamnă o viaţă întreagă; doar înseamnă bătrâneţea cea mai adâncă. Să trăieşti mai mult de patruzeci de ani e indecent, trivial, amoral! Ia răspundeţi-mi sincer, cinstit: cine trăieşte mai mult de patruzeci de ani? Vă spun eu cine trăieşte: proştii şi ticăloşii trăiesc. Tuturor bătrânilor o să le-o spun de la obraz, tuturor acestor bătrâni respectabili, tuturor acestor bătrâni cu părul alb şi parfumaţi! Lumii întregi o să i-o spun de la obraz! Am dreptul să vorbesc aşa pentru că o să trăiesc până la şaizeci de ani. Până la şaizeci de ani o să trăiesc! O să trăiesc până la optezci de ani!... Staţi puţin! Lăsaţi-mă să-mi trag sufletul...”
-
 “He went up to his room like a man who has been condemned to death. His mind was completely empty, and he was quite incapable of filling it with anything; but with his whole being he suddenly felt that he no longer possessed any freedom of thought or of will, and that everything had suddenly been decided once and for all.”
 
 “Owing to its rarity, perhaps, any external event, however trivial, always made me feel as though some radical change in my life were at hand.”
@@ -4719,19 +4354,11 @@
 
 “but never try to answer for what is between a husband and his wife, or a lover and his mistress. There is always one little corner which remains hidden from all the world, and is known only to the two of them.”
 
-“здесь мы все от легкомыслия лишь не веруем, потому что нам некогда: во-первых, дела одолели, а во-вторых, времени Бог мало дал, всего во дню определил только двадцать четыре часа, так что некогда и выспаться, не только покаяться.”
-
 “Though these young men unhappily fail to understand that the sacrifice of life is, in many cases, the easiest of all sacrifices, and that to sacrifice, for instance, five or six years of their seething youth to hard and tedious study, if only to multiply tenfold their powers of serving the truth and the cause they have set before them as their goal such a sacrifice is utterly beyond the strength of many of them. The”
 
 “That’s my business, my dear boy, not yours. I am going on my own, because such is my will, while you were all dragged there by Alexei Karamazov, so there’s a difference. And how do you know, maybe I’m not going to make peace at all? Silly expression!” “It wasn’t Karamazov at all, not him at all. Some of us just started going there by ourselves, of course with Karamazov at first. And there was never anything like that, nothing silly. First one of us went, then another. His father was terribly glad to see us. You know, he’ll just go out of his mind if Ilyusha dies. He can see Ilyusha’s going to die. But he’s so glad about us, that we made peace with Ilyusha. Ilyusha asked about you, but he didn’t add anything more.”
 
 “Interpreting freedom as the multiplication and rapid satisfaction of desires, men distort their own nature, for many senseless and foolish desires and habits and ridiculous fancies are fostered in them.”
-
-“Так как я не имею никакой надежды и в глазах ваших нуль, то и говорю прямо: я только вас везде вижу, а остальное мне все равно. За что и как я вас люблю — не знаю. Знаете ли, что, может быть, вы вовсе не хороши? Представьте себе, я даже не знаю, хороши ли вы или нет, даже лицом? Сердце, наверное, у вас нехорошее; ум неблагородный; это очень может быть.”
-
-“پس از دو هفته غیبت برگشته‌ام. کسان ما الان سه روز است که در رولتنبورگ سکونت گزیده‌اند. خیال می‌کردم مرا مانند مسیح انتظار می‌کشند ولی اشتباه می‌کردم”
-
-“Pero no sabemos ser originales ni siquiera para equivocarnos. Un error original acaso valga más que una verdad insignificante.”
 
 “They live only for mutual envy, for luxury and ostentation. To have dinners visits, carriages, rank, and slaves to wait on one is looked upon as a necessity, for which life, honor and human feeling are sacrificed, and men even commit suicide if they are unable to satisfy”
 
@@ -4769,8 +4396,6 @@
 
 “Against my will I waited: she came back a minute later with an expression that seemed to ask forgiveness for something. In fact, it was not the same face, not the same look as the evening before: sullen, mistrustful and obstinate. Her eyes now were imploring, soft, and at the same time trustful, caressing, timid. The expression with which children look at people they are very fond of, of whom they are asking a favour. Her eyes were a light hazel, they were lovely eyes, full of life, and capable of expressing love as well as sullen hatred.”
 
-“Si se acabase el mundo y alguien preguntase a los hombres: «Veamos, ¿qué habéis sacado en limpio de vuestra vida y qué conclusión definitiva habéis deducido de ella?», podrían los hombres mostrar en silencio el Quijote y decir luego: «Ésta es mi conclusión sobre la vida y... ¿podríais condenarme por ella?”
-
 “I maintain that nothing need be destroyed, that we only need to destroy the idea of God in man, that's how we have to set to work. It's that, that we must begin with. Oh, the blind race of men who have no understanding! As soon as men have all of them denied God - and I believe that period, analogous with geological periods, will come to pass - the old conception of the universe will fall of itself without cannibalism, and, what's more, the old morality, and everything will begin anew. Men will unite to take from life all it can give, but only for joy and happiness in the present world. Man will be lifted up with a spirit of divine Titanic pride and the man-god will appear. From hour to hour extending his conquest of nature infinitely by his will and his science, man will feel such lofty joy from hour to hour in doing it that it will make up for all his old dreams of joy and heaven. Everyone will know that he is mortal and will accept death proudly and serenely like a god. His pride will teach him that it's useless for him to repine at life's being a moment, and he will love his brother without need of reward. Love will be sufficient only for a moment of life, but the very consciousness of its momentariness will intensify its fire, which now is dissipated in dreams of eternal love beyond the grave.”
 
 “There are three powers, three powers alone, able to conquer and to hold captive for ever the conscience of these impotent rebels for their happiness-those forces are miracle, mystery and authority.”
@@ -4780,12 +4405,6 @@
 “Snegiryov, fussing and bewildered, ran after the coffin in his old, short, almost summer coat, bare-headed, with his old wide-brimmed felt hat in his hand. He was in some sort of insoluble anxiety, now reaching out suddenly to support the head of the coffin, which only interfered with the bearers, then running alongside to see if he could find a place for himself. A flower fell on the snow, and he simply rushed to pick it up, as if God knows what might come from the loss of this flower.”
 
 “I did not hate her so much, however, when I was running about the room and peeping through the crack in the screen. I was only insufferably oppressed by her being here. I wanted her to disappear. I wanted "peace," to be left alone in my underground world. Real life oppressed me with its novelty so much that I could hardly breathe.”
-
-“لابد للإنسان من أجل أن تبعث نفسه بعثا جديدا <br>وأن ترتفع بعد سقوط ، لابد أن يقطع للإلهة القديمة "أم الأرض" عهدا إلى الأبد ! ..ولكن الصعوبة هي هذه : ما عساني أفعل من أجل أن أعاهد الأرض ؟ أنا لا أزرع الأرض ، أنا لا أفتح جوف الأرض ؟ هل يجب أن أصبح فلاحا أو راعيا صغيرا ؟ إنني أسير في الليل دون أن أعرف أأنا أغوص في الوحل والعار أم أنا أتقدم نحو الضياء والفرح ؟ ذلك بعينه هو البلاء ..أن كل شئ في هذا العالم لغز ! ..حين كان يتفق لي أن أغوص إلى القرارة من هوة الدناءة والعهر (ولم أكن أفعل شيئا غير هذا على كل حال !) فقد كنت في كل مرة أعيد قراءة تلك القصيدة التي تتحدث عن سيريس وعن الإنسان ، فهل أصلحني ذلك ؟ كلا ثم كلا لأنني كارمازوف ، فحين أسقط في الهوة أتدهور تدهورا تاما ، رأسي في الأمام وقدماي في الفضاء ..حتى لقد أشعر عندئذ بسعادة ، من السقوط على هذا النحو المزري المذل المهين ، إنني أحس عندئذ بنوع من المتعة الفنية ، فإذا بلغت القرارة من هوة الدناءة والخسة طفقت أترنم بنشيد ألا فلأكن ملعونا ! ، ألا فلأكن منحطا سافلا ، ولكنني أريد ، أنا أيضا، أن أقبل ذيل الثوب الذي يتدثر به إلهي ، لئن اتبعت الشيطان يارب فإني أظل ابنك ! لأني أحبك ولأن في نفسي سبيلا إلى الفرح الذي لولاه ما وجد الكون <br>!”
-
-“Не Бога я не принимаю, Алеша, я только билет ему почтительнейше возвращаю.”
-
-“Нет заботы беспрерывнее и мучительнее для человека, как, оставшись свободным, сыскать поскорее того, пред кем преклониться.”
 
 “Where is it that I've read that someone condemned to death says or thinks, an hour before his death, that if he had to live on some high rock, on such a narrow ledge that he'd only got room to stand, with the ocean, everlasting darkness, everlasting solitude, everlasting tempest around him, if he had to remain standing on a square yard of space all his life, a thousand years, eternity, it were better to live like that than to die at once! Only to live, to live and live!”
 
@@ -4803,8 +4422,6 @@
 
 “With tears of penitence and poignant, tender anguish, he will exclaim: 'Others are better than I, they wanted to save me, not to ruin me!' Oh, this act of mercy is so easy for you, for in the absence of anything like real evidence it will be too awful for you to pronounce: 'Yes, he is guilty.”
 
-“Wystarczy niektórym z naszych szlachetnych panien, że obcięły włosy, włożyły niebieskie okulary i nazwały się nihilistkami aby nabrać przekonania, że tym samym zaczynają mieć własne "przekonania". Komu innemu wystarczyło poczuć w sercu kropelkę, dosłownie odrobinę jakiegoś ludzkiego, życzliwego uczucia, aby natychmiast nabyć przekonania, że nikt na świecie nie czuje tak jak on i jest on forpocztą w rozwoju ludzkości. Wystarczyło komu innemu przyjąć na słowo jakąś myśl albo przeczytać stronniczkę jakiegoś dzieła bez początku i zakończenia, aby natychmiast uwierzyć, że to "jego własne myśli", zrodzone w jego własnym mózgu. Bezczelność naiwności, jeśli można się tak wyrazić, dochodzi w takich wypadkach do zadziwiających rozmiarów, wszytko to brzmi nieprawdopodobnie, ale spotykamy się z tym na każdym kroku.”
-
 “Money is a kind of freedom that can be felt and heard; it is an inestimable treasure for a man entirely deprived of true liberty.”
 
 “But before going to bed, he fell on his knees and prayed a long time. In his fervent prayer he did not beseech God to lighten his darkness but only thirsted for the joyous emotion, which always visited his soul after the praise and adoration, of which his evening prayer usually consisted. That joy always brought him light untroubled sleep.”
@@ -4812,8 +4429,6 @@
 “He took a knife, and when his friend turned his back, he came up softly behind, raised his eyes to heaven, crossed himself, and saying earnestly—’God forgive me, for Christ’s sake!’ he cut his friend’s throat like a sheep, and took the watch.”
 
 “Remember, young man, unceasingly,” Father Paissy began, without preface, “that the science of this world, which has become a great power, has, especially in the last century, analysed everything divine handed down to us in the holy books. After this cruel analysis the learned of this world have nothing left of all that was sacred of old. But they have only analysed the parts and overlooked the whole, and indeed their blindness is marvellous. Yet the whole still stands steadfast before their eyes, and the gates of hell shall not prevail against it. Has it not lasted nineteen centuries, is it not still a living, a moving power in the individual soul and in the masses of people? It is still as strong and living even in the souls of atheists, who have destroyed everything! For even those who have renounced Christianity and attack it, in their inmost being still follow the Christian ideal, for hitherto neither their subtlety nor the ardour of their hearts has been able to create a higher ideal of man and of virtue than the ideal given by Christ of old. When it has been attempted, the result has been only grotesque.”
-
-“Но ты не знал, что чуть лишь человек отвергнет чудо, то тотчас отвергнет и Бога, ибо человек ищет не столько Бога, сколько чудес.”
 
 “While within the sphere of real life, which not only has its rights, but itself imposes great obligations—within this sphere, if we wish to be humane, to be Christians finally, it is our duty and obligation to foster only those convictions that are justified by reason and experience, that have passed through the crucible of analysis, in a word, to act sensibly and not senselessly as in dreams or delirium, so as not to bring harm to a man, so as not to torment and ruin a man.”
 
@@ -4823,27 +4438,15 @@
 
 “Alyosha looked at him in silence.<br><br>“I thought that going away from here I have you at least,” Ivan said suddenly, with unexpected feeling; “but now I see that there is no place for me even in your heart, my dear hermit. The formula, ‘all is lawful,’ I won't renounce—will you renounce me for that, yes?”<br><br>Alyosha got up, went to him and softly kissed him on the lips.<br><br>“That's plagiarism,” cried Ivan, highly delighted.”
 
-“«Эти люди, — думалось ему, — вот эти-то самые люди, которые еще за минуту не знают, зарежут они или нет, — уж как возьмут раз нож в свои дрожащие руки и как почувствуют первый брызг горячей крови на своих пальцах, то мало того что зарежут, — голову совсем отрежут «напрочь», как выражаются каторжные. Это так».”
-
 “For know, dear ones, that every one of us is undoubtedly responsible for all men and everything on earth, not merely through the general sinfulness of creation, but each one personally for all mankind and every individual man. This knowledge is the crown of life for the monk and for every man.”
 
 “He was, however, unable to give much prolonged or continuous thought to anything that evening , or to concentrate on any one idea; and anyway, even if he had been able to, he would not have found his way to a solution of these questions in a conscious manner; now he could only feel. In place of dialectics life had arrived, and in his consciousness something of a wholly different nature must now work towards fruition.”
 
-“La verdad siempre se encuentra; en cambio, la vida puede enterrarse para siempre.”
-
 “I only wonder now how people can live and think nothing about it. Vanity!”
-
-“¡Pero díganme, señores! ¿Qué quedará de mi voluntad cuando lleguemos a las tablas de cálculos, cuando no haya más que eso de «dos y dos son cuatro»? Dos y dos serán cuatro sin que mi voluntad se mezcle en ello. ¡La voluntad aspira, evidentemente, a otra cosa!”
-
-“Но есть [...], хотя и немного, несколько особенных людей: это в бога верующие и христиане, а в то же время и социалисты. Вот этих-то мы больше всех опасаемся, это страшный народ! Социалист-христианин страшнее социалиста-безбожника.”
 
 “I am a sick man.... I am a spiteful man. I am an unattractive man.”
 
-“Что уму представляется позором, то сердцу сплошь красотой. [...] Ужасно то, что красота есть не только страшная, но и таинственная вещь. Тут дьявол с богом борется, а поле битвы — сердца людей. А впрочем, что у кого болит, тот о том и говорит.”
-
 “It's life that matters, nothing but life - the process of discovering, the everlasting and perpetual process, not the discovery itself, at all.”
-
-“Всякие это люди; не сообразишь, какие люди; и большие и малые, и глупые и ученые, и даже из самого простого звания бывают, и всё суета. Ибо читают и толкуют весь свой век, насытившись сладости книжной, а сами все в недоумении пребывают и ничего разрешить не могут. Иной весь раскидался, самого себя перестал замечать. Иной паче камене ожесточен, а в сердце его бродят мечты; а другой бесчувствен и легкомыслен и лишь бы ему насмешку свою отсмеять. Иной из книг выбрал одни лишь цветочки, да и то по своему мнению; сам же суетлив и в нем предрешения нет. Вот что скажу опять: скуки много. Малый человек и нуждается, хлебца нет, ребяток сохранить нечем, на вострой соломке спит, а все в нем сердце веселое, легкое; и грешит и грубит, а все сердце легкое. А большой человек опивается, объедается, на золотой куче сидит, а всё в сердце у него одна тоска. Иной все науки прошел — и все тоска. И мыслю так, что чем больше ума прибывает, тем больше и скуки. Да и то взять: учат с тех пор, как мир стоит, а чему же они научили доброму, чтобы мир был самое прекрасное и веселое и всякой радости преисполненное жилище? И еще скажу: благообразия не имеют, даже не хотят сего; все погибли, и только каждый хвалит свою погибель, а обратиться к единой истине не помыслит; а жить без бога — одна лишь мука. И выходит, что чем освещаемся, то самое и проклинаем, а и сами того не ведаем. Да и что толку: невозможно и быть человеку, чтобы не преклониться; не снесет себя такой человек, да и никакой человек. И бога отвергнет, так идолу поклонится — деревянному, али златому, аль мысленному. Идолопоклонники это всё, а не безбожники, вот как объявить их следует. Ну,”
 
 “Then . . . who then . . . is the murderer?' he asked in a breathless voice, unable to restrain himself.<br>~<br>Porfiry Petrovitch sank back in his chair, as though he were amazed at the question. 'Who is the murderer?' he repeated, as though unable to believe his ears. 'Why, you, Rodion Romanovitch! You are the murderer,' he added, almost in a whisper, in a voice of genuine conviction.”
 
@@ -4859,15 +4462,9 @@
 
 “Before it was just her infernal curves that fretted me, but now I've taken her whole soul into my soul, and through her I've become a man!”
 
-“არ მინდა კაცობრიობის ის ბედნიერი მომავალი, რომლის საძირკველშიც ბავშვის ერთი ცრემლი მაინც ჩავარდება”
-
-“The skopets1 who sits in the shop rents the floor above.”
-
 “I will only observe that every reality, even though it has its unalterable laws, is almost always difficult to believe and improbable, and sometimes, indeed, the more real it is the more improbable it is.”
 
 “Desea aproximarse a la meta, pero cuando llega, no se siente satisfecho.”
-
-“Ayda bir kez kendine salak diyen adam, en akıllı adamdır.”
 
 “Those who think that it is only necessary to feed and clothe the prisoner, and to act towards him in all things according to the law, are much mistaken. However much debased he may be, a man exacts instinctively respect for his character as a man. Every prisoner knows perfectly that he is a convict and a reprobate, and knows the distance which separates him from his superiors; but neither the branding irons nor chains will make him forget that he is a man. He must, therefore, be treated with humanity. Humane treatment may raise up one in whom the divine image has long been obscured. It is with the "unfortunate," above all, that humane conduct is necessary. It is their salvation, their only joy.”
 
@@ -4876,8 +4473,6 @@
 “the famous plea of a certain lawyer who lately defended a man for murdering six people in order to rob them. He excused his client on the score of poverty. 'It is quite natural,' he said in conclusion, 'considering the state of misery he was in, that he should have thought of murdering these six people; which of you, gentlemen, would not have done the same in his place?”
 
 “Though I have said that I envy the normal man to the last drop of my bile, yet I should not care to be in his place such as he is now (though I shall not cease envying him). No, no; anyway the underground life is more advantageous. There, at any rate, one can … Oh, but even now I am lying! I am lying because I know myself that it is not underground that is better, but something different, quite different, for which I am thirsting, but which I cannot find! Damn underground!”
-
-“Ամենից ճիշտն այն է, որ ով գիտե, քո խղճահարությունն իմ սիրուց ավելի սաստիկ է:”
 
 “Of course, a minute or so later I would realise wrathfully that it was all a lie, a revolting lie, an affected lie, that is, all this penitence, this emotion, these vows of reform. You will ask why did I worry myself with such antics: answer, because it was very dull to sit with one's hands folded, and so one began cutting capers.”
 
@@ -4895,8 +4490,6 @@
 
 “Towards the end I myself could not stand it: as I grew older, a need for people, for friends, developed. I tried to start getting closer with some; but the attempt always came out unnaturally and would simply end of itself.”
 
-“¿Y para qué sirve la fantasía cuando uno está triste? Acaba uno por cansarse y siente que esa inagotable fantasía se agota con el esfuerzo constante por avivarla. Porque, al fin y al cabo, va uno siendo maduro y dejando atrás sus ideales de antes; éstos se quiebran, se desmoronan, y si no hay otra vida, la única posibilidad es hacérsela con esos pedazos. Mientras tanto, el alma pide y quiere otra cosa. En vano escarba el soñador en sus viejos sueños, como si fueran ceniza en la que busca algún rescoldo para reavivar la fantasía, para recalentar con nuevo fuego su enfriado corazón y resucitar en él una vez más lo que antes había amado tanto, lo que conmovía el alma, lo que enardecía la sangre, lo que arrancaba lágrimas de los ojos y cautivaba con espléndido hechizo.”
-
 “You can't skip over nature by logic. Logic presupposes three possibilities, but there are millions! Cut away a million, and reduce it all to the question of comfort! That's the easiest solution to the problem!”
 
 “when one tells a lie, if one insists on something unusual and eccentric—something too 'out of the way'' for anything, you know—the more impossible the thing is, the more plausible does the lie sound.”
@@ -4904,8 +4497,6 @@
 “Reactionary as it is, corporal punishment is better than nothing.”
 
 “Admito que eso de «dos y dos son cuatro» es una cosa excelente; pero puesto a alabar, les diré que «dos y dos son cinco» es también, a veces, algo encantador.”
-
-“الألم! ألا انه السبب الوحيد للشعور، والعلة الوحيدة للوعي!”
 
 “touch the vanity of one of these numberless philanthropists, and to avenge his self-esteem, he will be ready at once to set fire to the whole globe;”
 
@@ -4927,37 +4518,21 @@
 
 “Perezca yo con tal que mis seres queridos sean felices.”
 
-“Benim düşüncem," diye düşünüyordu, "dünya kuruldu kurulalı birbiriyle çarpışmakta olan öteki düşünce ve teorilerden hangi bakımdan, hangi bakımdan daha aptalca, daha budalaca? Olaya gündelik hayat açısından değil, özgürce ve geniş bir açıdan bakılacak olursa, benim düşüncelerimin hiç de o kadar... tuhaf olmadığı görülecektir. Ey inkarcılar, ey beş paralık bilgeler, ne diye yan yolda duruyorsunuz! Ve benim davranışım hangi bakımdan onlara böylesine çirkin görünüyor ? Bir cinayet olduğu için mi ? Ne demek, cinayet ? Benim vicdanım rahat. Hiç kuşkusuz ortada ağır bir suç var ve yine hiç kuşkusuz yasalar çiğnenmiş ve kan dökülmüştür... Madem öyle, çiğnenen yasalarınıza karşılık siz de benim başımı alın, olsun bitsin! Ama o zaman saltanat yoluyla değil de, iktidarı zorla ele geçirerek insanlığa iyilikte bulunanların da, hem de daha ilk adımlarında, kafalarını kesmek gerekmez miydi?”
-
 “Maybe man does not love well-being only? Maybe he loves suffering just as much? Maybe suffering is just as profitable for him as well-being? For man sometimes loves suffering terribly much, to the point of passion, and that is a fact.”
 
-“إن طفيليات من نوع جديد قد ظهرت، واختارت أجسام البشر مسكنا لها. غير أن هذه المخلوقات الميكروسكوبية مزودة بعقل وإرادة، والبشر الذين تدخل أجسادهم يصبحون على الفور مجانين مسعورين، ولكنهم يعدون أنفسهم على ذكاء عظيم لم يزعمه البشر لأنفسهم في يوم من الأيام قط فهم يعتقدون بأنهم معصومون من الزلل مبرؤون من الخطأ ، في أحكامهم، في نتائجهم العملية، في مبادئهم الأخلاقية والدينية. إن قرى ومدنا وأمما بكاملها قد سرت إليها هذه العدوى، وفقدت العقل. أصبح أفرادها يعيشون في حالة جنون، لا يفهم بعضهم عن بعض شيئا، لا يفهم أحد منه عن أحد شيئا؛ كل واحد يؤمن بأنه الإنسان الوحيد الذي يمتلك الحقيقة، فإذا نظر إلى الاخرين تألم وبكى ولطم صدره وعقف يديه لوعة وحسرة. أصبح الناس لا يستطيعون أن يتفاهموا على ما ينبغي أن يعد شرا وما ينبغي أن يعد خيرا. أصبحوا لا يستطيعون لا أن يدينوا ولا أن يبرئوا. أصبح البشر يقتل بعضهم بعضا تحت سيطرة بغص لا معنى له وكره لا يفهم. هم يجتمعون ليؤلفوا جيوشا كبيرة، فما أن يدخلوا معركة حتى يندلع الشقاق في جميع الصفوف فتنحل الجيوش، ويأخذ الجنود يهجم بعضهم على بعض، فيعض بعدهم بعضا، ويذبح بعضهم بعضا، ويلتهم بعضهم بعضا. ف المدن يدق ناقوس الخطر طوال النهار ويستنفر الشعب. ولكن من الذي يستنفره؟ ولماذا يستنفره؟ ذلك أمر لا يعرف أحد عنه شيئا. الرعب يستبد بجميع الخلق. المهن العادية هجرها أصحابها، لأن كل واحد يعرض آراءه وإصلاحاته وما من أحد يستطيع أن يتفق مع أحد. أهملت الزراعة إهمالا تاما. هنا وهناك يجتمع أناس فيشكلون جماعات ويتفاهمون على القيام بعمل مشترك، متعاهدين بأغلظ الأيمان على أن لا يفترقوا قط، ولكنهم ما يلبثون أن يشرعوا في شيء لا يمت بصلة إلى ما عقدوا النية على القيام به، ثم ما يلبثون أن يأخذوا في التراشق بالتهمـ ثم ما يلبثوا أن يقتتلوا فيذبح بعصهم بعضا. وتشتعل الحرائق وتظهر المجاعة. كل شيء يصيبه الدمار وجميع الناس يهلكون. البلاء ما ينفك يشتد قوة ويتسع مدى. ولا ينجو من البلاء إلا عدد قليل من الناس: هم الأنقياء الأطهار المصطفون الأخيار الذين كتب عليهم أن ينشئوا جنسا جديدا وأن يقيموا حياة جديدة، أن يجددوا الأرض ويطهورها. غير أن أحدا لم ير أولئك الأفراد في مكان ولا سمع أقوالهم ولا سمع اصواتهم.”
-
-“Entre nosotros se han establecido unas relaciones un tanto extrañas, que en muchos aspectos me resultan incomprensibles si tomo en consideración su orgullo y la altivez que muestra con todos. Sabe, por ejemplo, que la amo con locura.”
-
-“Eu cred însă în ideea mea, şi anume că oamenii, prin însăşi legea firii, se împart în general în doua categorii: în inferiori (oameni obişnuiţi), material uman care serveşte numai la procreare, şi în oameni în adevăratul înţeles al cuvîntului, cei care au darul sau talentul de a spune în mediul lor un cuvînt nou.”
-
 “To achieve perfection, you should not understand much at first! If we conceive too fast, we may not conceive properly.”
-
-“Sou um sonhador, tenho tão pouca vida real que momentos assim,como este, são tão raros que não posso deixar de reproduzi-los em meus devaneios”
 
 “It is this, and not the isolated crime of one individual or another, that should horrify us: that we are so used to it. Where lie the reasons for our indifference, our lukewarm attitude towards such affairs, such signs of the times, which prophesy for us an unenviable future? In our cynicism, in an early exhaustion of mind and imagination in our society, so young and yet so prematurely decrepit? In our moral principles, shattered to their foundations, or, finally, in the fact that we, perhaps, are not even possessed of such moral principles at all? I do not mean to resolve these questions; nevertheless they are painful, and every citizen not only ought, but is even obliged, to suffer over them.”
 
 “These people did not give me to eat, they did not give me to drink, I lay naked in prison and they did not visit me,”
 
-“Above all, don’t lie to yourself." – Fyodor Dostoyevsky, The Brothers Karamazov<br><br>"I don’t want to die without any scars." – Chuck Palahniuk, Fight Club<br><br>"Not all those who wander are lost." – J.R.R. Tolkien, The Fellowship of the Ring<br><br>"It is better to be hated for what you are than to be loved for what you are not." – André Gide, Autumn Leaves<br><br>"If you’re making mistakes it means you’re out there doing something." – Neil Gaiman, Make Good Art<br><br>"Even a stopped clock is right twice a day." – Paulo Coelho, Brida<br><br>"If we wait until we’re ready, we’ll be waiting for the rest of our lives."<br>– Lemony Snicket, The Ersatz Elevator<br><br>"The worst enemy to creativity is self-doubt." – Sylvia Plath, The Unabridged Journals of Sylvia Plath<br><br>"I dream. Sometimes I think that’s the only right thing to do." – Haruki Murakami, Sputnik Sweetheart<br><br>"If you don’t imagine, nothing ever happens at all." – John Green, Paper Towns<br>
-
 “Man likes to make roads and to create, that is a fact beyond dispute. But why has he such a passionate love for destruction and chaos also? Tell me that! But on that point I want to say a couple of words myself. May it not be that he loves chaos and destruction (there can be no disputing that he does sometimes love it) because he is instinctively afraid of attaining his object and completing the edifice he is constructing?”
 
 “In a word, the right granted to a man to inflict corporal punishment on his fellow-men, is one of the plague-spots of our society.”
 
-“Ես ուզում էի բոլորին թողնել, բոլորին, բայց ոչ ոք չկար, ոչ ոք:”
-
 “But let it pass, and to hell with all who pry into the human heart!”
 
 “Why, I certainly won’t leave you, Stepan Trofimovich, I’ll never leave you, sir!’ She seized his hands and clasped them in hers, and pressed them to her heart as she looked at him with tears in her eyes. (‘I became very sorry for him at that moment,’ she told us later.) His lips began to tremble, almost convulsively.”
-
-“Senin için uzun boylu bir tartışmayı bile çok görürler.”
 
 “Besides, after our conversation you could either go or stay. If you stayed, then nothing would happen, I’d simply know, sir, that you didn’t want this business, and I wouldn’t undertake anything. But since you did go, it meant you were assuring me that you wouldn’t dare turn me over to the court and would forgive me the three thousand. And you wouldn’t be able to persecute me at all afterwards, because in that case I’d tell everything in court, sir, that is, not that I stole or killed—I wouldn’t say that—but that it was you who put me up to stealing and killing, only I didn’t agree. That’s why I needed your consent then, so that you couldn’t corner me with anything afterwards, sir, because where would you get any proof of that, but I could always corner you, sir, by revealing how much you desired your parent’s death, and I give you my word—the public would all believe me, and you’d be ashamed for the rest of your life.” “So I did, I did desire it, did I?” Ivan growled again. “You undoubtedly did, sir, and by your consent then you silently allowed me that business, sir,” Smerdyakov looked firmly at Ivan. He”
 
@@ -4967,13 +4542,7 @@
 
 “Ils verseront de sottes larmes et comprendront, que le créateur, en les faisant rebelles a voulu se moquer d'eux, assurément. Ils le crieront avec désespoir et ce blasphème les rendra encore plus malheureux.”
 
-“Suferinţă şi durerea sunt totdeauna legate de o conştiinţa larga şi de o inimă adînc<br>simţitoare.”
-
 “I seem to be ready for work, my materials are collected, yet the work doesn't get done! Nothing is done!”
-
-“Макар че Пулхелия Александровна беше вече четирдесет и три годишна, лицето й все още пазеше следите от предишната й красота и при това тя изглеждаше доста по-млада от годините си, което се случва почти винаги с жени, запазили яснотата на духа, свежестта на впечатленията и честния, чист пламък на сърцето до старини. Ще кажем в скоби, да се запази всичко това, е единственото средство да не загубиш красотата си дори на старини”
-
-“Este conocimiento de nuestra culpa es la coronación de la carrera religiosa, como es, por lo demás, la de todas las carreras humanas Pues el religioso no es un ser aparte, sino la imagen de lo que deberían ser todos los hombres. Sólo cuando tengáis conciencia de ello, vuestro corazón se sentirá penetrado de un amor infinito, universal, insaciable. Entonces cada uno de vosotros será capaz de conquistar el mundo entero con su amor y de borrar los pecados con sus lágrimas.”
 
 “the ass is a good-natured and useful creature.”
 
@@ -4983,45 +4552,21 @@
 
 “Now I ask you: what can be expected of man since he is a being endowed with strange qualities? Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element. It is just his fantastic dreams, his vulgar folly that he will desire to retain, simply in order to prove to himself—as though that were so necessary—that men still are men and not the keys of a piano, which the laws of nature threaten to control so completely that soon one will be able to desire nothing but by the calendar. And that is not all: even if man really were nothing but a piano-key, even if this were proved to him by natural science and mathematics, even then he would not become reasonable, but would purposely do something perverse out of simple ingratitude, simply to gain his point. And if he does not find means he will contrive destruction and chaos, will contrive sufferings of all sorts, only to gain his point! He will launch a curse upon the world, and as only man can curse (it is his privilege, the primary distinction between him and other animals), may be by his curse alone he will attain his object—that is, convince himself that he is a man and not a piano-key! If you say that all this, too, can be calculated and tabulated—chaos and darkness and curses, so that the mere possibility of calculating it all beforehand would stop it all, and reason would reassert itself, then man would purposely go mad in order to be rid of reason and gain his point! I believe in it, I answer for it, for the whole work of man really seems to consist in nothing but proving to himself every minute that he is a man and not a piano-key!”
 
-“La natura è uno specchio, è lo specchio più trasparente che esista!”
-
-“To insects--sensual lust.”
-
-“Literature is a sort of picture—a sort of picture or mirror.”
-
 “By interpreting freedom as the propagation and immediate gratification of needs, people distort their own nature, for they engender in themselves a multitude of pointless and foolish desires, habits, and incongruous stratagems. Their lives are motivated only by mutual envy, sensuality, and ostentation. To give dinner-parties, to travel, to have carriages, titles, and slavishly devoted servants is considered such a necessity that, in order to satisfy this need, people will even sacrifice their lives, honour, and sense of humanity, and if they cannot satisfy it, they will even commit suicide. The”
 
 “I don’t understand it either. Obscure and vague, but intelligent. ‘Everybody writes like that now,”
-
-“В том-то и дело, что умный «обыкновенный» человек, даже если б и воображал себя мимоходом (а пожалуй, и во всю свою жизнь) человеком гениальным и оригинальнейшим, тем не менее сохраняет в сердце своем червячка сомнения, который доводит до того, что умный человек кончает иногда совершенным отчаянием; если же и покоряется, то уже совершенно отравившись вогнанным внутрь тщеславием. Впрочем, мы во всяком случае взяли крайность: в огромном большинстве этого умного разряда людей дело происходит вовсе не так трагически; портится разве под конец лет печенка, более или менее, вот и все.”
-
-“Man, after all, is stupid, phenomenally stupid.”
 
 “Our budding, still timid press has all the same rendered some service to society, for without it we should never have learned, in any measure of fullness, of those horrors of unbridled will and moral degradation that it ceaselessly reports in its pages, to everyone, not merely to those who attend the sessions of the new open courts granted us by the present reign.”
 
 “My eyes gleamed with passion, and I gripped her hands tightly. How I hated her and how I was drawn to her at that minute! The one feeling intensified the other. It was almost like an act of vengeance.”
 
-“هذه هي طبيعتي! هل تعلم، هل تعلم أيها السيد أنني شربت خمرًا حتى بثمن جوربيها؟ لا بثمن حذاءيها، فلو قد شربت خمرًا بثمن حذاءيها لكان الأمر طبيعيًا بعض الشيء، ولكنني شربت خمرًا بثمن جوربيها، نعم بثمن جوربيها!”
-
-“En la mayoría de los casos las personas, incluso las malvadas, son más ingenuas y simples de lo que nosotros en general creemos. Y nosotros mismos también.”
-
-“You see, there's a theory current you're insane, or you lean strongly in that direction.”
-
 “poverty is not a vice, that's a true saying. Yet I know too that drunkenness is not a virtue, and that that's even truer. But beggary, honoured sir, beggary is a vice. In poverty you may still retain your innate nobility of soul, but in beggary--never--no one.”
-
-“io vi amerei in modo tale che anche se voi lo amaste ancora e continuaste ad amare colui che io non conosco, il mio amore non vi peserebbe affatto.”
-
-“Ce coc în minte și ce nimicuri mă oripilează! se miră el cu un zâmbet straniu. Curios: totul e la îndemâna omului, dar, de poltron ce e, șansele îi trec pe sub nas... Iată o axiomă. Interesant, de ce anume le e frică oamenilor cel mai mult? De următorul pas, de cuvântul ce le stă pe limbă — orice îi scoate din bulionul lor îi bagă în sperieți... De altminteri, și eu prea bat câmpii. De aceea nici nu fac nimic, pentru că bat câmpii. De fapt, e valabil și de-a-ndoaselea: bat câmpii pentru că nu fac nimic. În ultima lună, m-am deprins să dondănesc, zăcând cât e ziulica de lungă într-un ungher și visând cai verzi pe pereți. De ce m-am pornit într-acolo? Sunt eu capabil de lucrul ăsta? E asta ceva serios? Nicidecum. Fantezii, autoamăgire, joc! Da, pesemne, totul nu e decât un joc!”
 
 “Nevertheless, vanity and conceit are defects from which scarcely any convict is exempt.”
 
 “It’s perfectly clear to me now that it was I who, owing to my boundless vanity, and hence also my exactingness towards myself, very often looked upon myself with furious dissatisfaction, reaching the point of loathing, and therefore mentally attributed my view to everyone else.”
 
 “She is passion embodied, a flower of melodrama in eternal bloom.”
-
-“- Я делаю… - нехотя и сурово проговорил Раскольников.<br>- Что делаешь?
-
-“Любовь выше бытия,любовь венец бытия,и как же возможно,чтобы бытие было ей неподклонно?Если есть бог,то и я бессмертен!”
 
 “I've fallen in love with and it was the end of me. But to fall in love does not mean to love. One can fall in love and still hate. Remember that! I say it now while there's still joy in it.”
 
@@ -5037,17 +4582,11 @@
 
 “Such suffering and terror were what Christ spoke of.7 No, a human being should not be treated like that!’ Although he could not have put all this into words as the prince had done, the valet understood, if not all of it, then the main point, and this was even visible in his features, which showed that he was moved.”
 
-“Nadie llega a una verdad sin haberse equivocado catorce veces, o ciento catorce, y esto es, acaso, un honor para el género humano. Pero no sabemos ser originales ni siquiera para equivocarnos. Un error original acaso valga más que una verdad insignificante.”
-
 “I wanted to tell you of a longing I have. I should like some one to torture me, marry me and then torture me, deceive me and go away. I don’t want to be happy.” “You are in love with disorder?”
-
-“Ero talmente abituato a pensare e immaginare tutto secondo i libri e a rappresentarmi ogni cosa al mondo così come io stesso l’avevo inventata prima nei miei sogni, che lì per lì non capii neppure quella strana circostanza. Ma ecco quel che accadde: Liza, offesa e schiacciata da me, aveva capito molto più di quanto immaginassi. Aveva capito, di tutto, ciò che una donna capisce sempre prima di ogni altra cosa, se ama veramente, e cioè che ero infelice.”
 
 “Twice two makes four seems to me simply a piece of insolence. Twice two makes four is a pert coxcomb who stands with arms akimbo barring your path and spitting.”
 
 “One seemed to read between the lines: "Concentrate yourselves on me. Behold what I was like at those moments. What are the sea, the storm, the rocks, the splinters of wrecked ships to you? I have described all that sufficiently to you with my mighty pen. Why look at that drowned woman with the dead child in her dead arms? Look rather at me, see how I was unable to bear that sight and turned away from it. Here I stood with my back to it; here I was horrified and could not bring myself to look; I blinked my eyes—isn't that interesting?”
-
-“Pero el hombre siente tal pasión por los sistemas, por las deducciones abstractas, que está dispuesto a disfrazar la verdad, a cerrar los ojos y a taparse los oídos ante la verdad, sólo por justificar su lógica.”
 
 “Raskolnikov saw in part why Sonia could not bring herself to read to him and the more he saw this, the more roughly <br>and irritably he insisted on her doing so. He understood only too well how painful it was for her to betray and unveil all <br>that was her own. He understood that these feelings really were her secret treasure, which she had kept perhaps for <br>years, perhaps from childhood, while she lived with an unhappy father and distracted step mother crazed by grief, in the midst of starving children and unseemly abuse and reproaches. But at the same time he knew now and knew for <br>certain that, although it filled her with dread and suffering, yet she had a tormenting desire to read and to read to him that he might hear it, and to read now whatever might come of it! ... He read this in her eyes, he could see it in her intense emotion. She mastered herself, controlled the spasm in her throat and went on reading the eleventh chapter of St. <br>John.”
 
@@ -5059,19 +4598,11 @@
 
 “Yes, guilty.’ It is better to let ten who are guilty go, than to punish one who is innocent—do you hear, do you hear this majestic voice from the last century of our glorious history?”
 
-“«¿Para qué vivir? Es preferible soñar.» Se pueden soñar las cosas más alegres; la vida, en cambio, es un fastidio… Pronto”
-
-“Mantu sakrāts vairāk, bet prieka palicis mazāk.”
-
-“Браћо, љубав је учитељица, али је треба знати стећи, јер се она тешко стиче, скупо се плаћа, дугим радом и полагано, јер волети треба не случајно и за тренутак, него засвагда.”
-
 “Rakitin doesn’t like God, oof, how he doesn’t! That’s the sore spot in all of them! But they conceal it. They lie. They pretend. ‘What, are you going to push for that in the department of criticism?’ I asked. ‘Well, they won’t let me do it openly,’ he said, and laughed. ‘But,’ I asked, ‘how will man be after that? Without God and the future life? It means everything is permitted now, one can do anything?”
 
 “We invent casuistical arguments for ourselves, we take a lesson from the Jesuits, and, for a time, contrive to allay our own doubts and convince ourselves that what we are doing is necessary, absolutely necessary, in a good cause. That is the way we are made; it is all as clear as daylight.”
 
 “No matter. He is holy. He carries in his heart the secret of renewal for all: that power which will, at last, establish truth on the earth, and all men will be holy and love one another, and there will be no more rich nor poor, no exalted nor humbled, but all will be as the children of God, and the true Kingdom of Christ will come.”
-
-“Susmak her zaman güzeldir, susan insan da her zaman konuşandan daha güzel görünür.”
 
 “I know that, like many other writers, I have many faults, for I am the first to be dissatisfied with myself . . . At the moment when I am trying to review my life's work, I often realize with pain that I have literally failed to express one-twentieth part of what I had wanted to, and perhaps could have expressed. The thing that comforts me is the constant hope that one day God will grant me so much inspiration . . . that I shall be able to express myself more fully, that, in short, I shall express all that is locked in my heart and in my imagination . . . I cannot help feeling that there is much more hidden in me than I have hitherto been able to express as a writer. And yet, speaking without false modesty, there is a great deal that is true and that came from my heart in what I have expressed already.”
 
