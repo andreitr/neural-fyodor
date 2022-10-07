@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from textblob import TextBlob
 
 URL_STR = "https://www.goodreads.com/author/quotes/34583.Vincent_van_Gogh?page="
 
