@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from textblob import TextBlob
 
 URL_STR = "https://www.goodreads.com/author/quotes/34583.Vincent_van_Gogh?page="
 
@@ -12,8 +13,10 @@ for x in range(100):
 
   quotes =results.find_all("div", class_="quote")
 
-  with open("quote.txt", "a") as f:
+  with open("quotee.txt", "a") as f:
     for quote in quotes:
       quote_text = quote.find("div", class_="quoteText")
-      f.write(str(quote_text).split("<br/>")[0].split("<div class=\"quoteText\">")[1].strip())
-      f.write('\n\n')
+      text = str(quote_text).split("<br/>")[0].split("<div class=\"quoteText\">")[1].strip()
+      if len(text) < 280:
+        f.write(text)
+        f.write('\n\n')
