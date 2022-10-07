@@ -13,7 +13,7 @@ for x in range(100):
 
   quotes =results.find_all("div", class_="quote")
 
-  with open("quotee.txt", "a") as f:
+  with open("quotes.txt", "a") as f:
     for quote in quotes:
       quote_text = quote.find("div", class_="quoteText")
       text = str(quote_text).split("<br/>")[0].split("<div class=\"quoteText\">")[1].strip()
