@@ -1,5 +1,5 @@
 # GoodReads Qote Scraper
-Scrapes tweetable quotes (less than 280 chars) and saves to a text file.
+Scrapes tweetable quotes (less than 280 chars) and saves them to a text file.
 
 ##### Requirements
 ```
@@ -10,6 +10,7 @@ python3 -m pip install requests
 
 ##### Run
 ```
+# Edit URL_STR inside quote-scraper.py to update url 
 # From inside the project directory run
 python3 quote-scraper.py 
 ```
